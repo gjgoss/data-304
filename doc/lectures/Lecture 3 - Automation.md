@@ -1,0 +1,4 @@
+- Intro to unix (bash) terminal
+- Intro to git
+	- terminal vs GUI
+- Read https://rogerdudler.github.io/git-guide/

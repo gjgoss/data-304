@@ -1,0 +1,8 @@
+- LLMs
+	- Chat
+	- RAG
+	- Graph RAG
+- Distributed Computing
+	- Map reduce
+	- PySpark
+- Step functions (lambda or app function)

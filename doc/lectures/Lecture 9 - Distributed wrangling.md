@@ -1,0 +1,9 @@
+- Hadoop and map reduce
+	- Databricks
+- Parquet and Drill
+- Snowflake
+- Kafka
+	- Queueing
+	- Channels
+	- Subscribers
+	- 

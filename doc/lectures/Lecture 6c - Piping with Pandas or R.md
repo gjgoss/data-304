@@ -1,0 +1,10 @@
+- Vectorization
+	- Math
+	- Compute
+- infix operator (%>%)
+- What does the plus in a + b really mean?
+- https://tomerfiliba.com/blog/Infix-Operators
+- Infix does not really exist in python, but with pd.dataframe.pipe
+	- takes in dataframe.self and returns a dataframe
+	- Limited compared to R
+- 

@@ -1,0 +1,4 @@
+- Classical computer 
+	- https://www.youtube.com/watch?v=dNRDvLACg5Q&ab_channel=Computerphile
+- Memory vs disk
+- An array vs a text file

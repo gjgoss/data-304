@@ -1,0 +1,6 @@
+- Course syllabus
+- Each person says 
+	- their name (pronouns if they wish)
+	- their major (intended)
+	- why they signed up for this class
+- Readings for the week
