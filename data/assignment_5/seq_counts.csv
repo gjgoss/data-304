@@ -1,0 +1,28 @@
+course1,course2,count
+Intro to Python,Statistics I,40
+Statistics I,Linear Algebra,40
+Linear Algebra,Data Wrangling,40
+Data Wrangling,Data Visualization,40
+Data Visualization,Machine Learning,40
+Machine Learning,Big Data Analytics,40
+Big Data Analytics,Database Systems,40
+Database Systems,Data Mining,40
+Data Mining,Data Science Capstone 401,40
+Intro to Python,Probability & Statistics,40
+Probability & Statistics,Linear Algebra,40
+Linear Algebra,Machine Learning,40
+Machine Learning,Neural Networks,40
+Neural Networks,Deep Learning,40
+Deep Learning,Computer Vision,40
+Computer Vision,Reinforcement Learning,40
+Reinforcement Learning,Ethics in AI,40
+Ethics in AI,Artificial Intelligence Capstone 401,40
+Intro to Cybersecurity,Computer Networks,40
+Computer Networks,Operating Systems,40
+Operating Systems,Cryptography,40
+Cryptography,Network Security,40
+Network Security,System Security,40
+System Security,Ethical Hacking,40
+Ethical Hacking,Digital Forensics,40
+Digital Forensics,Security Policies,40
+Security Policies,Cybersecurity Capstone 401,40
