@@ -12,7 +12,7 @@ links <- data.frame(
 )
 
 nodes <- data.frame(
-  name = unique(unlist(list(source, target), use.names = FALSE))
+  name = unique(unlist(list(links$source, links$target), use.names = FALSE))
 )
 
 links$IDsource <- match(links$source, nodes$name) - 1 
