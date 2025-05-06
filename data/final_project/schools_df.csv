@@ -2,17 +2,17 @@ school_x,nces_id,city,address,zip,district,grades,school_type,student_count,sala
 Alpha Elementary,470000100477,Morristown,5620 Old Us 11e Hwy,37814,Hamblen County,"['1', '2', '3', '4', '5', 'KG']",Public,606.0,https://drive.google.com/file/d/1gOmzE-qHfhDrALaZ7fyOf0HUXMvrVmVy/view,['Elementary']
 East Ridge Middle School,470000100479,Whitesburg,,,,,,,,
 Fairview Marguerite,470000100480,Morristown,2125 Fairview Rd,37814,Hamblen County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,490.0,https://drive.google.com/file/d/1gOmzE-qHfhDrALaZ7fyOf0HUXMvrVmVy/view,['Elementary']
-Manley Elementary,470000100481,Morristown,551 West Economy Rd,37814,Hamblen County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,612.0,https://drive.google.com/file/d/1gOmzE-qHfhDrALaZ7fyOf0HUXMvrVmVy/view,['Elementary']
+Manley Elementary,470000100481,Morristown,,,,,,,,
 Russellville Elementary,470000100483,Russellville,5655 Old Russellville Pike,37860,Hamblen County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,624.0,https://drive.google.com/file/d/1gOmzE-qHfhDrALaZ7fyOf0HUXMvrVmVy/view,['Elementary']
-Union Heights Elementary,470000100485,Morristown,3366 Tornado TRL,37813,Hamblen County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,304.0,https://drive.google.com/file/d/1gOmzE-qHfhDrALaZ7fyOf0HUXMvrVmVy/view,['Elementary']
-Whitesburg Elementary,470000100487,Whitesburg,7859 East Andrew Johnson,37891,Hamblen County,"['1', '2', '3', '4', '5', 'KG']",Public,206.0,https://drive.google.com/file/d/1gOmzE-qHfhDrALaZ7fyOf0HUXMvrVmVy/view,['Elementary']
-Witt Elementary,470000100488,Morristown,4650 S Davy Crockett Pkwy,37813,Hamblen County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,215.0,https://drive.google.com/file/d/1gOmzE-qHfhDrALaZ7fyOf0HUXMvrVmVy/view,['Elementary']
-Hamblen County Alternative School,470000101268,Morristown,376 Snyder Rd,37813,Hamblen County,"['1', '10', '11', '12', '2', '3', '4', '5', '6', '7', '8', '9', 'KG']",Public,62.0,https://drive.google.com/file/d/1gOmzE-qHfhDrALaZ7fyOf0HUXMvrVmVy/view,"['Elementary', 'Middle', 'High']"
-West View Middle School,470000101271,Morristown,1 Indian Path,37813,Hamblen County,"['6', '7', '8']",Public,579.0,https://drive.google.com/file/d/1gOmzE-qHfhDrALaZ7fyOf0HUXMvrVmVy/view,['Middle']
+Union Heights Elementary,470000100485,Morristown,,,,,,,,
+Whitesburg Elementary,470000100487,Whitesburg,,,,,,,,
+Witt Elementary,470000100488,Morristown,,,,,,,,
+Hamblen County Alternative School,470000101268,Morristown,,,,,,,,
+West View Middle School,470000101271,Morristown,,,,,,,,
 Hillcrest Elementary,470000101929,Morristown,407 S Liberty Hill Rd,37813,Hamblen County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,604.0,https://drive.google.com/file/d/1gOmzE-qHfhDrALaZ7fyOf0HUXMvrVmVy/view,['Elementary']
 John Hay Elementary,470000101930,Morristown,501 Brittain Court,37814,Hamblen County,"['1', '2', '3', '4', '5', 'KG']",Public,266.0,https://drive.google.com/file/d/1gOmzE-qHfhDrALaZ7fyOf0HUXMvrVmVy/view,['Elementary']
 Lincoln Heights Elementary,470000101931,Morristown,215 Lincoln Ave,37813,Hamblen County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,525.0,https://drive.google.com/file/d/1gOmzE-qHfhDrALaZ7fyOf0HUXMvrVmVy/view,['Elementary']
-Lincoln Heights Middle School,470000101933,Morristown,219 Lincoln Ave,37813,Hamblen County,"['6', '7', '8']",Public,561.0,https://drive.google.com/file/d/1gOmzE-qHfhDrALaZ7fyOf0HUXMvrVmVy/view,['Middle']
+Lincoln Heights Middle School,470000101933,Morristown,,,,,,,,
 Meadowview Middle School,470000101934,Morristown,1623 Meadowview Ln,37814,Hamblen County,"['6', '7', '8']",Public,627.0,https://drive.google.com/file/d/1gOmzE-qHfhDrALaZ7fyOf0HUXMvrVmVy/view,['Middle']
 Morristown East High,470000101935,Morristown,One Hurricane Ln,37813,Hamblen County,"['10', '11', '12', '9']",Public,1572.0,https://drive.google.com/file/d/1gOmzE-qHfhDrALaZ7fyOf0HUXMvrVmVy/view,['High']
 Morristown West High,470000101936,Morristown,One Trojan TRL,37813,Hamblen County,"['10', '11', '12', '9']",Public,1506.0,https://drive.google.com/file/d/1gOmzE-qHfhDrALaZ7fyOf0HUXMvrVmVy/view,['High']
@@ -26,20 +26,20 @@ Anderson County Career Technical Center,470009000003,Clinton,140 Maverick CIR,37
 Andersonville Elementary,470009000004,Andersonville,,,,,,,,
 Briceville Elementary,470009000005,Briceville,,,,,,,,
 Claxton Elementary,470009000006,Powell,,,,,,,,
-Clinton Middle School,470009000007,Clinton,,,,,,,,
+Clinton Middle School,470009000007,Clinton,110 N Hicks St,37716,Anderson County,"['6', '7', '8']",Public,609.0,https://drive.google.com/file/d/1KYG9WFyK8Z4bQnQcX1W2BBlIIBdjXAsO/view,['Middle']
 Clinton High School,470009000008,Clinton,,,,,,,,
-Dutch Valley Elementary,470009000011,Clinton,,,,,,,,
+Dutch Valley Elementary,470009000011,Clinton,1044 Old Dutch Valley Rd,37716,Anderson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,114.0,https://drive.google.com/file/d/1KYG9WFyK8Z4bQnQcX1W2BBlIIBdjXAsO/view,['Elementary']
 Fairview Elementary,470009000012,Heiskell,,,,,,,,
-Lake City Elementary,470009000014,Lake City,,,,,,,,
+Lake City Elementary,470009000014,Lake City,402 Lindsay St,37769,Anderson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,403.0,https://drive.google.com/file/d/1KYG9WFyK8Z4bQnQcX1W2BBlIIBdjXAsO/view,['Elementary']
 Lake City Middle School,470009000015,Lake City,1132 S Main St,37769,Anderson County,"['6', '7', '8']",Public,257.0,https://drive.google.com/file/d/1KYG9WFyK8Z4bQnQcX1W2BBlIIBdjXAsO/view,['Middle']
 Norris Elementary,470009000018,Norris,,,,,,,,
-Norris Middle School,470009000019,Norris,5 Norris Square,37828,Anderson County,"['6', '7', '8']",Public,489.0,https://drive.google.com/file/d/1KYG9WFyK8Z4bQnQcX1W2BBlIIBdjXAsO/view,['Middle']
-Norwood Elementary,470009000020,Oliver Springs,,,,,,,,
+Norris Middle School,470009000019,Norris,,,,,,,,
+Norwood Elementary,470009000020,Oliver Springs,809 Tri- County Blvd,37840,Anderson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,223.0,https://drive.google.com/file/d/1KYG9WFyK8Z4bQnQcX1W2BBlIIBdjXAsO/view,['Elementary']
 Norwood Middle School,470009000021,Oliver Springs,803 Tri- County Blvd,37840,Anderson County,"['6', '7', '8']",Public,159.0,https://drive.google.com/file/d/1KYG9WFyK8Z4bQnQcX1W2BBlIIBdjXAsO/view,['Middle']
 Anderson County High School,470009001871,Clinton,130 Maverick CIR,37716,Anderson County,"['10', '11', '12', '9']",Public,1036.0,https://drive.google.com/file/d/1KYG9WFyK8Z4bQnQcX1W2BBlIIBdjXAsO/view,['High']
 Grand Oaks Elementary,470009002002,Clinton,1033 Oliver Springs Hwy,37716,Anderson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,330.0,https://drive.google.com/file/d/1KYG9WFyK8Z4bQnQcX1W2BBlIIBdjXAsO/view,['Elementary']
 Anderson County Head Start / Preschool,470009002163,Clinton,,,,,,,,
-Clinch River Community School,470009002291,Clinton,,,,,,,,
+Clinch River Community School,470009002291,Clinton,160 Maverick Circle,37716,Anderson County,"['1', '10', '11', '12', '2', '3', '4', '5', '6', '7', '8', '9', 'KG']",Public,0.0,https://drive.google.com/file/d/1KYG9WFyK8Z4bQnQcX1W2BBlIIBdjXAsO/view,"['Elementary', 'Middle', 'High']"
 Anderson County Innovation Academy,470009002641,Clinton,,,,,,,,
 Athens City Middle School,470012000025,Athens,,,,,,,,
 Athens City Intermediate,470012010486,Athens,,,,,,,,
@@ -299,13 +299,13 @@ Millington Central Middle High School,470015001587,Millington,8050 West St,38053
 Millington Primary School,470015002078,Millington,6445 William Osteen Dr,38053,Millington Municipal Schools,"['1', '2', '3', 'KG', 'PK']",Public,858.0,https://drive.google.com/file/d/1EBEE_Rf0mAD5I4oKUmvli7lw2-SOhdKM/view,['Elementary']
 Millington Intermediate School,470015002676,Millington,4964 Cuba-Millington Rd,38053,Millington Municipal Schools,"['4', '5', '6']",Public,553.0,https://drive.google.com/file/d/1EBEE_Rf0mAD5I4oKUmvli7lw2-SOhdKM/view,['Elementary']
 Dogwood Elementary School,470015101576,Germantown,,,,,,,,
-Farmington Elementary School,470015101580,Germantown,,,,,,,,
-Riverdale Elementary School,470015101591,Germantown,7391 Neshoba Rd,38138,Germantown,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,1171.0,https://drive.google.com/file/d/1VGAmY9_ApqcBH89FqSksY-BaNsCS5vkD/view,"['Elementary', 'Middle']"
+Farmington Elementary School,470015101580,Germantown,2085 Cordes Rd,38138,Germantown,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,628.0,https://drive.google.com/file/d/1VGAmY9_ApqcBH89FqSksY-BaNsCS5vkD/view,['Elementary']
+Riverdale Elementary School,470015101591,Germantown,,,,,,,,
 Houston High School,470015102001,Germantown,9755 Wolf River Blvd,38139,Germantown,"['10', '11', '12', '9']",Public,1938.0,https://drive.google.com/file/d/1VGAmY9_ApqcBH89FqSksY-BaNsCS5vkD/view,['High']
 Houston Middle School,470015102018,Germantown,9400 Wolf River Blvd,38139,Germantown,"['6', '7', '8']",Public,897.0,https://drive.google.com/file/d/1VGAmY9_ApqcBH89FqSksY-BaNsCS5vkD/view,['Middle']
-Forest Hill Elementary School,470015102602,Germantown,3366 Forest Hill Irene Rd,38138,Germantown,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,697.0,https://drive.google.com/file/d/1VGAmY9_ApqcBH89FqSksY-BaNsCS5vkD/view,['Elementary']
-Germantown Online Academy of Learning,470015102675,Germantown,3350 S. Forest Hill Irene Rd,38138,Germantown,"['1', '10', '11', '12', '2', '3', '4', '5', '6', '7', '8', '9', 'KG']",Public,60.0,https://drive.google.com/file/d/1VGAmY9_ApqcBH89FqSksY-BaNsCS5vkD/view,"['Elementary', 'Middle', 'High']"
-Arlington Middle,470015201358,Arlington,,,,,,,,
+Forest Hill Elementary School,470015102602,Germantown,,,,,,,,
+Germantown Online Academy of Learning,470015102675,Germantown,,,,,,,,
+Arlington Middle,470015201358,Arlington,5470 Lamb Rd,38002,Arlington,"['6', '7', '8']",Public,992.0,https://drive.google.com/file/d/1QsRkdjW9kbd36JpUAw5eEhHh_i17FGlP/view,['Middle']
 Arlington Elementary,470015201567,Arlington,,,,,,,,
 Arlington High,470015202075,Arlington,,,,,,,,
 Donelson Elementary,470015202197,Arlington,,,,,,,,
@@ -334,17 +334,17 @@ Nashville Collegiate Prep,470015702691,Nashville,,,,,,,,
 Cornerstone Prep School,470015710445,Memphis,,,,,,,,
 Rocketship Dream Community Prep,470015710446,Antioch,,,,,,,,
 KIPP Antioch Global High School,470015710495,Antioch,,,,,,,,
-Tennessee Nature Academy,470015710496,Nashville,,,,,,,,
+Tennessee Nature Academy,470015710496,Nashville,7533 Lords Chapel DR,37211,Tennessee Public Charter School Commission,"['5', '6']",Public Charter,,,[]
 Cascade High School,470018000034,Wartrace,1165 Bell Bckle/Wartrace,37183,Bedford County,"['10', '11', '12', '9']",Public,545.0,https://drive.google.com/file/d/1cq1tUzcNcdayP0hKV3C0_nkqg9KEoDpP/view,['High']
-Eakin Elementary,470018000035,Shelbyville,,,,,,,,
-Shelbyville Central High School,470018000036,Shelbyville,,,,,,,,
+Eakin Elementary,470018000035,Shelbyville,1100 Glenoaks Rd,37160,Bedford County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,692.0,https://drive.google.com/file/d/1cq1tUzcNcdayP0hKV3C0_nkqg9KEoDpP/view,['Elementary']
+Shelbyville Central High School,470018000036,Shelbyville,401 Eagle Blvd,37160,Bedford County,"['10', '11', '12', '9']",Public,1553.0,https://drive.google.com/file/d/1cq1tUzcNcdayP0hKV3C0_nkqg9KEoDpP/view,['High']
 Harris Middle School,470018000037,Shelbyville,570 Eagle Blvd,37160,Bedford County,"['6', '7', '8']",Public,963.0,https://drive.google.com/file/d/1cq1tUzcNcdayP0hKV3C0_nkqg9KEoDpP/view,['Middle']
 Community High School,470018000039,Unionville,100 Community Crossing,37180,Bedford County,"['10', '11', '12', '9']",Public,566.0,https://drive.google.com/file/d/1cq1tUzcNcdayP0hKV3C0_nkqg9KEoDpP/view,['High']
-East Side Elementary,470018000040,Shelbyville,,,,,,,,
+East Side Elementary,470018000040,Shelbyville,421 Elliott St,37160,Bedford County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,424.0,https://drive.google.com/file/d/1cq1tUzcNcdayP0hKV3C0_nkqg9KEoDpP/view,['Elementary']
 Thomas Magnet School,470018000041,Shelbyville,515 Tate Avenue,37160,Bedford County,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,449.0,https://drive.google.com/file/d/1cq1tUzcNcdayP0hKV3C0_nkqg9KEoDpP/view,"['Elementary', 'Middle']"
 Liberty Elementary,470018000042,Shelbyville,500 Snell Rd,37160,Bedford County,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,630.0,https://drive.google.com/file/d/1cq1tUzcNcdayP0hKV3C0_nkqg9KEoDpP/view,"['Elementary', 'Middle']"
 South Side Elementary,470018000044,Shelbyville,903 Cannon Blvd,37160,Bedford County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,387.0,https://drive.google.com/file/d/1cq1tUzcNcdayP0hKV3C0_nkqg9KEoDpP/view,['Elementary']
-Cascade Elementary,470018000578,Wartrace,,,,,,,,
+Cascade Elementary,470018000578,Wartrace,2998 Fairfield Pike,37183,Bedford County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,675.0,https://drive.google.com/file/d/1cq1tUzcNcdayP0hKV3C0_nkqg9KEoDpP/view,['Elementary']
 Community Elementary School,470018000582,Unionville,3480 Highway 41a,37180,Bedford County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,663.0,https://drive.google.com/file/d/1cq1tUzcNcdayP0hKV3C0_nkqg9KEoDpP/view,['Elementary']
 Community Middle School,470018002218,Unionville,3470 Hwy 41A Rd,37180,Bedford County,"['6', '7', '8']",Public,370.0,https://drive.google.com/file/d/1cq1tUzcNcdayP0hKV3C0_nkqg9KEoDpP/view,['Middle']
 Learning Way Elementary,470018002222,Shelbyville,200 Learning Way Dr,37160,Bedford County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,675.0,https://drive.google.com/file/d/1cq1tUzcNcdayP0hKV3C0_nkqg9KEoDpP/view,['Elementary']
@@ -365,7 +365,7 @@ Pikeville Elementary,470027000060,Pikeville,41068 S R 30,37367,Bledsoe County,"[
 Bledsoe County Middle School,470027001035,Pikeville,857 Main St,37367,Bledsoe County,"['6', '7', '8']",Public,378.0,https://drive.google.com/file/d/1QXKjC54z-ASDzZIyQvAjx2xCd6L8IQf5/view,['Middle']
 Fairview Elementary,470030000068,Maryville,2130 Old Niles Ferry,37803,Blount County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,303.0,https://drive.google.com/file/d/1lh1oQsKqpoJ6M396QhRoIxU-EiE-Zb8A/view,['Elementary']
 Friendsville Elementary,470030000070,Friendsville,210 E 4th Ave,37777,Blount County,"['1', '2', '3', '4', '5', 'KG']",Public,214.0,https://drive.google.com/file/d/1lh1oQsKqpoJ6M396QhRoIxU-EiE-Zb8A/view,['Elementary']
-Heritage High School,470030000072,Maryville,3741 E Lamar Alex Pkwy,37804,Blount County,"['10', '11', '12', '9']",Public,1198.0,https://drive.google.com/file/d/1lh1oQsKqpoJ6M396QhRoIxU-EiE-Zb8A/view,['High']
+Heritage High School,470030000072,Maryville,,,,,,,,
 Lanier Elementary,470030000074,Maryville,6006 Lanier Rd,37742,Blount County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,337.0,https://drive.google.com/file/d/1lh1oQsKqpoJ6M396QhRoIxU-EiE-Zb8A/view,['Elementary']
 Porter Elementary,470030000078,Maryville,4520 Wildwood Springs Rd,37804,Blount County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,232.0,https://drive.google.com/file/d/1lh1oQsKqpoJ6M396QhRoIxU-EiE-Zb8A/view,['Elementary']
 Rockford Elementary,470030000081,Rockford,3728 Williams Mill Rd,37853,Blount County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,403.0,https://drive.google.com/file/d/1lh1oQsKqpoJ6M396QhRoIxU-EiE-Zb8A/view,['Elementary']
@@ -375,7 +375,7 @@ Heritage Middle School,470030001041,Maryville,3737 E Lamar Alex Pkwy,37804,Bloun
 Carpenters Middle School,470030001387,Maryville,920 Huffstetler Rd,37803,Blount County,"['6', '7', '8']",Public,529.0,https://drive.google.com/file/d/1lh1oQsKqpoJ6M396QhRoIxU-EiE-Zb8A/view,['Middle']
 Union Grove Middle School,470030001652,Friendsville,334 South Old Grey Ridge Rd,37737,Blount County,"['6', '7', '8']",Public,611.0,https://drive.google.com/file/d/1lh1oQsKqpoJ6M396QhRoIxU-EiE-Zb8A/view,['Middle']
 Eagleton Elementary,470030001669,Maryville,708 Sam Houston School Rd,37804,Blount County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,482.0,https://drive.google.com/file/d/1lh1oQsKqpoJ6M396QhRoIxU-EiE-Zb8A/view,['Elementary']
-William Blount High School,470030001830,Maryville,219 County Farm Rd,37801,Blount County,"['10', '11', '12', '9']",Public,1545.0,https://drive.google.com/file/d/1lh1oQsKqpoJ6M396QhRoIxU-EiE-Zb8A/view,['High']
+William Blount High School,470030001830,Maryville,,,,,,,,
 Middlesettlements,470030001873,Louisville,3105 Miser Station Rd,37777,Blount County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,329.0,https://drive.google.com/file/d/1lh1oQsKqpoJ6M396QhRoIxU-EiE-Zb8A/view,['Elementary']
 Montvale Elementary,470030001916,Maryville,3128 Montvale Rd,37803,Blount County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,291.0,https://drive.google.com/file/d/1lh1oQsKqpoJ6M396QhRoIxU-EiE-Zb8A/view,['Elementary']
 Mary Blount Elementary,470030001991,Maryville,131 South Old Glory Rd,37801,Blount County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,594.0,https://drive.google.com/file/d/1lh1oQsKqpoJ6M396QhRoIxU-EiE-Zb8A/view,['Elementary']
@@ -409,7 +409,7 @@ Fairmount Elementary,470036000111,Bristol,,,,,,,,
 Haynesfield Elementary,470036000112,Bristol,,,,,,,,
 Holston View Elementary,470036000113,Bristol,,,,,,,,
 Bristol Tennessee Middle School,470036000114,Bristol,,,,,,,,
-Tennessee High School,470036000116,Bristol,1112 Edgemont Avenue,37620,Bristol,"['10', '11', '12', '9']",Public,1154.0,https://drive.google.com/file/d/1Ef2d54N6AVdEg90xEQ0SQWcsyIGlzuWj/view,['High']
+Tennessee High School,470036000116,Bristol,,,,,,,,
 Tennessee Online Public School,470036002308,Bristol,,,,,,,,
 Tennessee Online Public School at Bristol,470036002681,Bristol,,,,,,,,
 Campbell County Comprehensive High School,470042000117,Jacksboro,150 Cougar Ln,37757,Campbell County,"['10', '11', '12', '9']",Public,1242.0,https://drive.google.com/file/d/1n8PZrwuPQnv-hx9MslKusZGw_YogLw3n/view,['High']
@@ -428,7 +428,7 @@ LaFollette Elementary School,470042002128,LaFollette,195 Myers Ln,37766,Campbell
 Jellico Learning Academy,470042002399,Jellico,141 High School Rd,37762,Campbell County,"['10', '11', '12', '6', '7', '8', '9']",Public,0.0,https://drive.google.com/file/d/1n8PZrwuPQnv-hx9MslKusZGw_YogLw3n/view,"['Middle', 'High']"
 East Lafollette Learning Academy,470042002416,LaFollette,860 East Chestnut,37766,Campbell County,"['10', '11', '12', '6', '7', '8', '9']",Public,0.0,https://drive.google.com/file/d/1n8PZrwuPQnv-hx9MslKusZGw_YogLw3n/view,"['Middle', 'High']"
 North Cumberland Online School,470042002644,Jacksboro,127 Valley St.,37757,Campbell County,"['10', '11', '12', '6', '7', '8', '9']",Public,0.0,https://drive.google.com/file/d/1n8PZrwuPQnv-hx9MslKusZGw_YogLw3n/view,"['Middle', 'High']"
-Cannon County High School,470045000140,Woodbury,,,,,,,,
+Cannon County High School,470045000140,Woodbury,1 Lion Dr,37190,Cannon County,"['10', '11', '12', '9']",Public,544.0,https://drive.google.com/file/d/1oHOcQdeTgilPd1TEFaRM-iGin5rZLxv6/view,['High']
 Cannon County Elementary School,470045010418,Woodbury,,,,,,,,
 Cannon North Elementary School,470045010419,Readyville,,,,,,,,
 Cannon South Elementary School,470045010420,Bradyville,,,,,,,,
@@ -488,14 +488,14 @@ Hermitage Springs Elementary School,470066000261,Red Boiling Springs,,,,,,,,
 Clay Co Adult High School,470066001049,Celina,,,,,,,,
 Clay County High School,470066001694,Celina,,,,,,,,
 D.P. Yates Primary,470069000061,Cleveland,,,,,,,,
-Arnold Memorial Elementary,470069000263,Cleveland,473 8th N W St,37311,Cleveland,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,289.0,https://drive.google.com/file/d/1ZlM6bk3t5GwfcrvmO-WDknCtBnP90BSQ/view,['Elementary']
+Arnold Memorial Elementary,470069000263,Cleveland,,,,,,,,
 Cleveland High,470069000265,Cleveland,850 Raider Dr,37312,Cleveland,"['10', '11', '12', '9']",Public,1842.0,https://drive.google.com/file/d/1ZlM6bk3t5GwfcrvmO-WDknCtBnP90BSQ/view,['High']
 Cleveland Middle,470069000266,Cleveland,,,,,,,,
-E.L. Ross Elementary,470069000267,Cleveland,4340 Mouse Creek Rd,37312,Cleveland,"['3', '4', '5']",Public,275.0,https://drive.google.com/file/d/1ZlM6bk3t5GwfcrvmO-WDknCtBnP90BSQ/view,['Elementary']
-G.R. Stuart Elementary,470069000268,Cleveland,802 20th Nw St,37311,Cleveland,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,291.0,https://drive.google.com/file/d/1ZlM6bk3t5GwfcrvmO-WDknCtBnP90BSQ/view,['Elementary']
-Mayfield Elementary,470069000269,Cleveland,501 20th Street NE,37311,Cleveland,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,412.0,https://drive.google.com/file/d/1ZlM6bk3t5GwfcrvmO-WDknCtBnP90BSQ/view,['Elementary']
-Blythe-Bower Elementary,470069000270,Cleveland,604 20th St SE,37311,Cleveland,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,636.0,https://drive.google.com/file/d/1ZlM6bk3t5GwfcrvmO-WDknCtBnP90BSQ/view,['Elementary']
-Candy's Creek Cherokee Elementary School,470069002608,Cleveland,4445 Georgetown Rd,37312,Cleveland,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,471.0,https://drive.google.com/file/d/1ZlM6bk3t5GwfcrvmO-WDknCtBnP90BSQ/view,['Elementary']
+E.L. Ross Elementary,470069000267,Cleveland,,,,,,,,
+G.R. Stuart Elementary,470069000268,Cleveland,,,,,,,,
+Mayfield Elementary,470069000269,Cleveland,,,,,,,,
+Blythe-Bower Elementary,470069000270,Cleveland,,,,,,,,
+Candy's Creek Cherokee Elementary School,470069002608,Cleveland,,,,,,,,
 Clinton Elementary,470072000271,Clinton,,,,,,,,
 North Clinton Elementary,470072000272,Clinton,,,,,,,,
 South Clinton Elementary,470072001949,Clinton,,,,,,,,
@@ -512,32 +512,32 @@ Smoky Mountain Elementary,470075000284,Cosby,135 South 32 Hwy,37722,Cocke County
 Cocke Co Adult High School,470075000297,Newport,241 Hedrick Dr,37821,Cocke County,"['10', '11', '12', '9']",Public,11.0,https://drive.google.com/file/d/1rInZakiIV5ep8ANCMNk3pMIsiipWuBjJ/view,['High']
 Cosby High School,470075001392,Cosby,3318 Cosby Hwy,37722,Cocke County,"['10', '11', '12', '9']",Public,326.0,https://drive.google.com/file/d/1rInZakiIV5ep8ANCMNk3pMIsiipWuBjJ/view,['High']
 Coffee County Central High School,470078000285,Manchester,100 Red Raider Dr,37355,Coffee County,"['10', '11', '12']",Public,1285.0,https://drive.google.com/file/d/14KjH-KzO_e_8xJpTQw6pdalndT6mo63w/view,['High']
-Coffee County Middle School,470078000286,Manchester,3063 Woodbury Hwy,37355,Coffee County,"['6', '7', '8']",Public,843.0,https://drive.google.com/file/d/14KjH-KzO_e_8xJpTQw6pdalndT6mo63w/view,['Middle']
-East Coffee Elementary,470078000287,Manchester,,,,,,,,
-Hickerson Elementary,470078000288,Tullahoma,,,,,,,,
-Hillsboro Elementary,470078000289,Hillsboro,,,,,,,,
-New Union Elementary,470078000291,Manchester,,,,,,,,
-North Coffee Elementary,470078000292,Manchester,,,,,,,,
+Coffee County Middle School,470078000286,Manchester,,,,,,,,
+East Coffee Elementary,470078000287,Manchester,6264 Mcminnville Hwy,37355,Coffee County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,220.0,https://drive.google.com/file/d/14KjH-KzO_e_8xJpTQw6pdalndT6mo63w/view,['Elementary']
+Hickerson Elementary,470078000288,Tullahoma,5017 Old Manchester Hwy,37388,Coffee County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,192.0,https://drive.google.com/file/d/14KjH-KzO_e_8xJpTQw6pdalndT6mo63w/view,['Elementary']
+Hillsboro Elementary,470078000289,Hillsboro,284 Winchester Hwy,37342,Coffee County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,409.0,https://drive.google.com/file/d/14KjH-KzO_e_8xJpTQw6pdalndT6mo63w/view,['Elementary']
+New Union Elementary,470078000291,Manchester,3320 Woodbury Hw,37355,Coffee County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,316.0,https://drive.google.com/file/d/14KjH-KzO_e_8xJpTQw6pdalndT6mo63w/view,['Elementary']
+North Coffee Elementary,470078000292,Manchester,6790 Murfreesboro Hwy,37355,Coffee County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,342.0,https://drive.google.com/file/d/14KjH-KzO_e_8xJpTQw6pdalndT6mo63w/view,['Elementary']
 Coffee County Koss Center,470078000298,Manchester,,,,,,,,
-Deerfield Elementary School,470078002234,Manchester,,,,,,,,
-Coffee County Raider Academy,470078002420,Manchester,865 McMinnville Hwy,37355,Coffee County,['9'],Public,472.0,https://drive.google.com/file/d/14KjH-KzO_e_8xJpTQw6pdalndT6mo63w/view,[]
+Deerfield Elementary School,470078002234,Manchester,9123 Woodbury Hwy,37355,Coffee County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,259.0,https://drive.google.com/file/d/14KjH-KzO_e_8xJpTQw6pdalndT6mo63w/view,['Elementary']
+Coffee County Raider Academy,470078002420,Manchester,,,,,,,,
 Coffee County Virtual Academy,470078002646,Manchester,,,,,,,,
 Crockett County High School,470085001897,Alamo,2014 Highway 88,38001,Crockett County,"['10', '11', '12', '9']",Public,888.0,https://drive.google.com/file/d/1pelY_IUCkd8zlZI57TY2gosnmV0z7bRo/view,['High']
 Friendship Elementary,470085001898,Friendship,6117 Highway 189,38034,Crockett County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,115.0,https://drive.google.com/file/d/1pelY_IUCkd8zlZI57TY2gosnmV0z7bRo/view,['Elementary']
 Gadsden Elementary,470085001899,Gadsden,,,,,,,,
-Maury City Elementary,470085001902,Maury City,,,,,,,,
+Maury City Elementary,470085001902,Maury City,5442 Highway 88,38050,Crockett County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,230.0,https://drive.google.com/file/d/1pelY_IUCkd8zlZI57TY2gosnmV0z7bRo/view,['Elementary']
 Crockett County Middle School,470085001920,Alamo,497 North Cavalier Dr,38001,Crockett County,"['6', '7', '8']",Public,614.0,https://drive.google.com/file/d/1pelY_IUCkd8zlZI57TY2gosnmV0z7bRo/view,['Middle']
 Crab Orchard Elementary,470090000301,Crab Orchard,,,,,,,,
 Cumberland County High School,470090000303,Crossville,,,,,,,,
 Glenn Martin Elementary,470090000305,Crossville,,,,,,,,
-Homestead Elementary School,470090000306,Crossville,,,,,,,,
-Pine View Elementary,470090000309,Rockwood,,,,,,,,
+Homestead Elementary School,470090000306,Crossville,3889 Highway 127 South,38572,Cumberland County,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,722.0,https://drive.google.com/file/d/1CXwnPchnIlFgQbxCjG-8EaDwIQajS4bh/view,"['Elementary', 'Middle']"
+Pine View Elementary,470090000309,Rockwood,349 Daysville Rd,37854,Cumberland County,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,187.0,https://drive.google.com/file/d/1CXwnPchnIlFgQbxCjG-8EaDwIQajS4bh/view,"['Elementary', 'Middle']"
 Pleasant Hill Elementary,470090000310,Pleasant Hill,,,,,,,,
 Stone Elementary,470090001050,Crossville,,,,,,,,
-South Cumberland Elementary,470090001835,Crossville,,,,,,,,
+South Cumberland Elementary,470090001835,Crossville,3536 Lantana Rd,38572,Cumberland County,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,587.0,https://drive.google.com/file/d/1CXwnPchnIlFgQbxCjG-8EaDwIQajS4bh/view,"['Elementary', 'Middle']"
 North Cumberland Elementary,470090001877,Crossville,,,,,,,,
 Frank P. Brown Elementary,470090002052,Crossville,,,,,,,,
-Stone Memorial High School,470090002100,Crossville,,,,,,,,
+Stone Memorial High School,470090002100,Crossville,2800 Cook Rd,38571,Cumberland County,"['10', '11', '12', '9']",Public,1031.0,https://drive.google.com/file/d/1CXwnPchnIlFgQbxCjG-8EaDwIQajS4bh/view,['High']
 The Phoenix School,470090002130,Crossville,,,,,,,,
 Dayton City Elementary,470093000315,Dayton,,,,,,,,
 Decaturville Elementary,470096000316,Decaturville,,,,,,,,
@@ -552,18 +552,18 @@ DeKalb West Elementary,470099000325,Liberty,,,,,,,,
 Northside Elementary,470099001246,Smithville,,,,,,,,
 De Kalb County Adult High School,470099002117,Smithville,,,,,,,,
 Stuart Burns Elementary,470102000326,Burns,3201 Highway 96,37029,Dickson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,740.0,https://drive.google.com/file/d/1VyhsFQOvOYW63_ULMKu6FynMvz-Yzsqb/view,['Elementary']
-New Directions Academy,470102000327,Charlotte,,,,,,,,
-Charlotte Middle School,470102000328,Charlotte,,,,,,,,
+New Directions Academy,470102000327,Charlotte,4000 Highway 48 North,37036,Dickson County,"['10', '11', '12', '6', '7', '8', '9']",Public,18.0,https://drive.google.com/file/d/1VyhsFQOvOYW63_ULMKu6FynMvz-Yzsqb/view,"['Middle', 'High']"
+Charlotte Middle School,470102000328,Charlotte,250 Humphries St,37036,Dickson County,"['6', '7', '8']",Public,436.0,https://drive.google.com/file/d/1VyhsFQOvOYW63_ULMKu6FynMvz-Yzsqb/view,['Middle']
 Dickson County High School,470102000329,Dickson,509 Henslee Dr,37055,Dickson County,"['10', '11', '12', '9']",Public,1472.0,https://drive.google.com/file/d/1VyhsFQOvOYW63_ULMKu6FynMvz-Yzsqb/view,['High']
-Dickson Elementary,470102000330,Dickson,120 W Broad St,37055,Dickson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,242.0,https://drive.google.com/file/d/1VyhsFQOvOYW63_ULMKu6FynMvz-Yzsqb/view,['Elementary']
+Dickson Elementary,470102000330,Dickson,,,,,,,,
 Dickson Middle School,470102000331,Dickson,,,,,,,,
-Oakmont Elementary,470102000332,Dickson,630 Hwy 46 South,37055,Dickson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,474.0,https://drive.google.com/file/d/1VyhsFQOvOYW63_ULMKu6FynMvz-Yzsqb/view,['Elementary']
-Vanleer Elementary,470102000334,Vanleer,4456 Highway 49 West,37181,Dickson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,267.0,https://drive.google.com/file/d/1VyhsFQOvOYW63_ULMKu6FynMvz-Yzsqb/view,['Elementary']
-White Bluff Elementary,470102000335,White Bluff,377 School Rd,37187,Dickson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,464.0,https://drive.google.com/file/d/1VyhsFQOvOYW63_ULMKu6FynMvz-Yzsqb/view,['Elementary']
+Oakmont Elementary,470102000332,Dickson,,,,,,,,
+Vanleer Elementary,470102000334,Vanleer,,,,,,,,
+White Bluff Elementary,470102000335,White Bluff,,,,,,,,
 W James Middle School,470102000336,White Bluff,,,,,,,,
-Charlotte Elementary,470102001073,Charlotte,200 Humphries St,37036,Dickson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,616.0,https://drive.google.com/file/d/1VyhsFQOvOYW63_ULMKu6FynMvz-Yzsqb/view,['Elementary']
-Centennial Elementary,470102001094,Dickson,198 Upper Lake Dr,37055,Dickson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,682.0,https://drive.google.com/file/d/1VyhsFQOvOYW63_ULMKu6FynMvz-Yzsqb/view,['Elementary']
-The Discovery School,470102001102,Dickson,101 Henslee Dr,37055,Dickson County,"['1', '2', '3', '4', '5', 'KG']",Public,205.0,https://drive.google.com/file/d/1VyhsFQOvOYW63_ULMKu6FynMvz-Yzsqb/view,['Elementary']
+Charlotte Elementary,470102001073,Charlotte,,,,,,,,
+Centennial Elementary,470102001094,Dickson,,,,,,,,
+The Discovery School,470102001102,Dickson,,,,,,,,
 Creek Wood High School,470102001727,Charlotte,3499 Highway 47 North,37036,Dickson County,"['10', '11', '12', '9']",Public,933.0,https://drive.google.com/file/d/1VyhsFQOvOYW63_ULMKu6FynMvz-Yzsqb/view,['High']
 Special Services,470102002183,Dickson,115 Academy St,37055,Dickson County,"['1', '10', '11', '2', '3', '4', '5', '6', '7', '8', '9', 'KG', 'PK']",Public,157.0,https://drive.google.com/file/d/1VyhsFQOvOYW63_ULMKu6FynMvz-Yzsqb/view,"['Elementary', 'Middle', 'High']"
 Burns Middle School,470102002610,Burns,,,,,,,,
@@ -602,7 +602,7 @@ Pine Haven Elementary,470123000381,Jamestown,,,,,,,,
 York Elementary,470123000383,Jamestown,,,,,,,,
 Fentress County Adult High School,470123000598,Allardt,,,,,,,,
 South Fentress Elementary School,470123002029,Grimsley,,,,,,,,
-Freedom Middle School,470126000219,Franklin,750 Hwy 96 West,37064,Franklin Special School District,"['7', '8']",Public,511.0,https://drive.google.com/file/d/1kZv5LZzPRpE3NIofQqelLgLG1oi9_yuV/view,['Middle']
+Freedom Middle School,470126000219,Franklin,,,,,,,,
 Franklin Elementary,470126000390,Franklin,,,,,,,,
 Johnson Elementary,470126000396,Franklin,,,,,,,,
 Freedom Intermediate,470126000414,Franklin,840 Glass Ln,37064,Franklin Special School District,"['5', '6']",Public,521.0,https://drive.google.com/file/d/1kZv5LZzPRpE3NIofQqelLgLG1oi9_yuV/view,[]
@@ -615,12 +615,12 @@ Broadview Elementary,470129000384,Winchester,,,,,,,,
 Clark Memorial School,470129000385,Winchester,,,,,,,,
 Cowan Elementary,470129000386,Cowan,,,,,,,,
 Decherd Elementary,470129000387,Decherd,,,,,,,,
-Franklin Co High School,470129000388,Winchester,833 Bypass Rd,37398,Franklin County,"['10', '11', '12', '9']",Public,1180.0,https://drive.google.com/file/d/1LcOUG1hHrUqu9fYL79cArYl1o0YVOtkx/view,['High']
+Franklin Co High School,470129000388,Winchester,,,,,,,,
 Huntland School,470129000395,Huntland,,,,,,,,
 North Middle School,470129000399,Winchester,,,,,,,,
 Rock Creek Elementary,470129000401,Estill Springs,,,,,,,,
 Sewanee Elementary,470129000402,Sewanee,,,,,,,,
-South Middle School,470129000405,Cowan,601 West Cumberland St,37318,Franklin County,"['6', '7', '8']",Public,292.0,https://drive.google.com/file/d/1LcOUG1hHrUqu9fYL79cArYl1o0YVOtkx/view,['Middle']
+South Middle School,470129000405,Cowan,,,,,,,,
 Bradford High School,470139000425,Bradford,,,,,,,,
 Bradford Elementary,470139000606,Bradford,,,,,,,,
 Dyer Elementary,470140000411,Dyer,322 East College St,38330,Gibson Co Sp Dist,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,408.0,https://drive.google.com/file/d/1oqqfArsRliH1dIyBJP8brUKHfuoJ_cJ2/view,"['Elementary', 'Middle']"
@@ -650,7 +650,7 @@ Rutledge Middle School,470144002165,Rutledge,,,,,,,,
 Rutledge Primary,470144002187,Rutledge,,,,,,,,
 Grainger Academy,470144002193,Rutledge,,,,,,,,
 Baileyton Elementary,470147000441,Greeneville,,,,,,,,
-Camp Creek Elementary,470147000442,Greeneville,2941 Camp Creek Rd,37743,Greene County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,318.0,https://drive.google.com/file/d/1fesD2Sv0uhq7owg-Pzi6vtLXmiBl9kaC/view,['Elementary']
+Camp Creek Elementary,470147000442,Greeneville,,,,,,,,
 Chuckey Elementary,470147000444,Chuckey,,,,,,,,
 Chuckey Doak High School,470147000445,Afton,,,,,,,,
 Doak Elementary,470147000447,Greeneville,,,,,,,,
@@ -761,19 +761,20 @@ East Hamilton Middle School,470159002617,Apison,,,,,,,,
 Montessori Elementary at Highland Park,470159002652,Chattanooga,,,,,,,,
 Ivy Academy's Skillern Elementary,470159010429,Soddy-Daisy,,,,,,,,
 Chattanooga Charter School of Excellence High,470159010430,Chattanooga,,,,,,,,
+Chatt Academy Community School,470159010476,Chattanooga,,,,,,,,
 Hancock County Elementary,470162000534,Sneedville,,,,,,,,
 Hancock High School,470162000535,Sneedville,,,,,,,,
 Hancock County Early Learning Center,470162002166,Sneedville,,,,,,,,
 Hancock Middle School,470162010477,Sneedville,,,,,,,,
-Bolivar Elementary,470165000539,Bolivar,445 Nuckolls Rd,38008,Hardeman County Schools,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,756.0,https://drive.google.com/file/d/1riDcOZgImUilQYf2DfDlK134V1-RS0VX/view,['Elementary']
+Bolivar Elementary,470165000539,Bolivar,,,,,,,,
 Bolivar Middle School,470165000540,Bolivar,,,,,,,,
-Central High School,470165000541,Bolivar,313 Harris St,38008,Hardeman County Schools,"['10', '11', '12', '9']",Public,697.0,https://drive.google.com/file/d/1riDcOZgImUilQYf2DfDlK134V1-RS0VX/view,['High']
-Grand Junction Elementary,470165000542,Grand Junction,750 Pledge St,38039,Hardeman County Schools,"['1', '2', '3', '4', '5', '6', 'KG', 'PK']",Public,163.0,https://drive.google.com/file/d/1riDcOZgImUilQYf2DfDlK134V1-RS0VX/view,['Elementary']
-Hornsby Elementary,470165000545,Hornsby,50 Church St,38044,Hardeman County Schools,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,175.0,https://drive.google.com/file/d/1riDcOZgImUilQYf2DfDlK134V1-RS0VX/view,"['Elementary', 'Middle']"
-Middleton Elementary,470165000546,Middleton,180 Robin CIR,38052,Hardeman County Schools,"['1', '2', '3', '4', '5', '6', 'KG', 'PK']",Public,370.0,https://drive.google.com/file/d/1riDcOZgImUilQYf2DfDlK134V1-RS0VX/view,['Elementary']
-Middleton High School,470165000547,Middleton,138 Florida Ave,38052,Hardeman County Schools,"['10', '11', '12', '7', '8', '9']",Public,418.0,https://drive.google.com/file/d/1riDcOZgImUilQYf2DfDlK134V1-RS0VX/view,"['Middle', 'High']"
-Toone Elementary,470165000548,Toone,160 Neely St,38381,Hardeman County Schools,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,221.0,https://drive.google.com/file/d/1riDcOZgImUilQYf2DfDlK134V1-RS0VX/view,"['Elementary', 'Middle']"
-Whiteville Elementary,470165000550,Whiteville,2510 Highway 64 East,38075,Hardeman County Schools,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,215.0,https://drive.google.com/file/d/1riDcOZgImUilQYf2DfDlK134V1-RS0VX/view,"['Elementary', 'Middle']"
+Central High School,470165000541,Bolivar,,,,,,,,
+Grand Junction Elementary,470165000542,Grand Junction,,,,,,,,
+Hornsby Elementary,470165000545,Hornsby,,,,,,,,
+Middleton Elementary,470165000546,Middleton,,,,,,,,
+Middleton High School,470165000547,Middleton,,,,,,,,
+Toone Elementary,470165000548,Toone,,,,,,,,
+Whiteville Elementary,470165000550,Whiteville,,,,,,,,
 Hardin County High School,470168000553,Savannah,,,,,,,,
 Hardin County Middle School,470168000554,Savannah,,,,,,,,
 Parris South Elementary,470168000558,Savannah,,,,,,,,
@@ -851,9 +852,9 @@ Huntingdon Middle School,470201000645,Huntingdon,,,,,,,,
 Huntingdon High School,470201000646,Huntingdon,,,,,,,,
 Huntingdon Primary,470201000647,Huntingdon,,,,,,,,
 Northwest Head Start - Huntingdon,470201002170,Huntingdon,,,,,,,,
-Jackson County High School,470207000661,Gainesboro,,,,,,,,
+Jackson County High School,470207000661,Gainesboro,190 Blue Devil Ln,38562,Jackson County,"['10', '11', '12', '9']",Public,403.0,https://drive.google.com/file/d/1nvAAQh4-JYFaivBsWizfwEboF1BpZhJX/view,['High']
 Dodson Branch Elementary,470207000662,Cookeville,,,,,,,,
-Gainesboro Elementary,470207000665,Gainesboro,,,,,,,,
+Gainesboro Elementary,470207000665,Gainesboro,611 Main St,38562,Jackson County,"['1', '2', '3', 'KG', 'PK']",Public,341.0,https://drive.google.com/file/d/1nvAAQh4-JYFaivBsWizfwEboF1BpZhJX/view,['Elementary']
 Jackson County Middle School,470207001829,Gainesboro,,,,,,,,
 Dandridge Elementary,470210000671,Dandridge,780 S Highway 92,37725,Jefferson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,530.0,,['Elementary']
 Jefferson Co High School,470210000675,Dandridge,115 W Dumplin Valley Rd,37725,Jefferson County,"['10', '11', '12', '9']",Public,2054.0,,['High']
@@ -884,22 +885,22 @@ Liberty Bell Middle School,470213002268,Johnson City,718 Morningside Dr,37604,Jo
 Doe Elementary,470216000694,Mountain City,7164 Highway 67 West,37683,Johnson County,"['1', '2', '3', '4', '5', '6', 'KG', 'PK']",Public,217.0,https://drive.google.com/file/d/1O49KdBvJMWJL6kl8RXGZaWW-rt7WpDZh/view,['Elementary']
 Johnson Co High School,470216000696,Mountain City,290 Fairground Hill,37683,Johnson County,"['10', '11', '12', '9']",Public,643.0,https://drive.google.com/file/d/1O49KdBvJMWJL6kl8RXGZaWW-rt7WpDZh/view,['High']
 Johnson Co Middle School,470216000697,Mountain City,278 Fairground Hill,37683,Johnson County,"['7', '8']",Public,284.0,https://drive.google.com/file/d/1O49KdBvJMWJL6kl8RXGZaWW-rt7WpDZh/view,['Middle']
-Laurel Elementary,470216000698,Laurel Bloomery,300 Gentry Creek Rd,37680,Johnson County,"['1', '2', '3', '4', '5', '6', 'KG']",Public,79.0,https://drive.google.com/file/d/1O49KdBvJMWJL6kl8RXGZaWW-rt7WpDZh/view,['Elementary']
+Laurel Elementary,470216000698,Laurel Bloomery,,,,,,,,
 Mountain City Elementary,470216000699,Mountain City,301 Donnelly St,37683,Johnson County,"['1', '2', '3', '4', '5', '6', 'KG', 'PK']",Public,436.0,https://drive.google.com/file/d/1O49KdBvJMWJL6kl8RXGZaWW-rt7WpDZh/view,['Elementary']
 Roan Creek Elementary,470216001836,Mountain City,2410 Roan Creek Rd,37683,Johnson County,"['1', '2', '3', '4', '5', '6', 'KG', 'PK']",Public,345.0,https://drive.google.com/file/d/1O49KdBvJMWJL6kl8RXGZaWW-rt7WpDZh/view,['Elementary']
-Tennessee Connections Academy Johnson County 4-8,470216002621,White House,117 Edenway Dr,37188,Johnson County,"['4', '5', '6', '7', '8']",Public,1478.0,https://drive.google.com/file/d/1O49KdBvJMWJL6kl8RXGZaWW-rt7WpDZh/view,"['Elementary', 'Middle']"
+Tennessee Connections Academy Johnson County 4-8,470216002621,White House,,,,,,,,
 Tennessee Connections Academy Johnson County 9-12,470216002622,White House,118 Edenway Dr,37188,Johnson County,"['10', '11', '12', '9']",Public,1489.0,https://drive.google.com/file/d/1O49KdBvJMWJL6kl8RXGZaWW-rt7WpDZh/view,['High']
 Theodore Roosevelt Elementary School,470219000190,Kingsport,1051 Lake St,37660,Kingsport,"['1', '2', '3', '4', '5', 'KG']",Public,277.0,https://drive.google.com/file/d/1wKNH6zexmRAATuvaZRdKLBxQqkKNh8-W/view,['Elementary']
-Dobyns - Bennett High School,470219000706,Kingsport,1 Tribe Way,37664,Kingsport,"['10', '11', '12', '9']",Public,2514.0,https://drive.google.com/file/d/1wKNH6zexmRAATuvaZRdKLBxQqkKNh8-W/view,['High']
-Andrew Jackson Elementary School,470219000707,Kingsport,600 Jackson St,37660,Kingsport,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,496.0,https://drive.google.com/file/d/1wKNH6zexmRAATuvaZRdKLBxQqkKNh8-W/view,['Elementary']
+Dobyns - Bennett High School,470219000706,Kingsport,,,,,,,,
+Andrew Jackson Elementary School,470219000707,Kingsport,,,,,,,,
 Thomas Jefferson Elementary School,470219000708,Kingsport,,,,,,,,
-Andrew Johnson Elementary School,470219000709,Kingsport,1001 Ormond Dr,37664,Kingsport,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,543.0,https://drive.google.com/file/d/1wKNH6zexmRAATuvaZRdKLBxQqkKNh8-W/view,['Elementary']
+Andrew Johnson Elementary School,470219000709,Kingsport,,,,,,,,
 Abraham Lincoln Elementary School,470219000710,Kingsport,,,,,,,,
-Ross N. Robinson Middle School,470219000713,Kingsport,,,,,,,,
+Ross N. Robinson Middle School,470219000713,Kingsport,1517 Jessee St,37664,Kingsport,"['6', '7', '8']",Public,955.0,https://drive.google.com/file/d/1wKNH6zexmRAATuvaZRdKLBxQqkKNh8-W/view,['Middle']
 John Sevier Middle School,470219000714,Kingsport,,,,,,,,
-George Washington Elementary School,470219000715,Kingsport,1100 Bellingham Dr,37660,Kingsport,"['1', '2', '3', '4', '5', 'KG']",Public,503.0,https://drive.google.com/file/d/1wKNH6zexmRAATuvaZRdKLBxQqkKNh8-W/view,['Elementary']
+George Washington Elementary School,470219000715,Kingsport,,,,,,,,
 Palmer Early Learning Center,470219001167,Kingsport,,,,,,,,
-John F. Kennedy Elementary School,470219002005,Kingsport,1500 Woodland Ave,37660,Kingsport,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,266.0,https://drive.google.com/file/d/1wKNH6zexmRAATuvaZRdKLBxQqkKNh8-W/view,['Elementary']
+John F. Kennedy Elementary School,470219002005,Kingsport,,,,,,,,
 John Adams Elementary School,470219002216,Kingsport,,,,,,,,
 A L Lotts Elementary,470222000076,Knoxville,9320 Westland Dr,37922,Knox County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,1011.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
 Richard Yoakley School,470222000314,Knoxville,4415 Washington Pike,37917,Knox County,"['10', '11', '12', '6', '7', '8', '9']",Public,106.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,"['Middle', 'High']"
@@ -912,45 +913,45 @@ Blue Grass Elementary,470222000720,Knoxville,8901 Blue Grass Rd,37922,Knox Count
 Bonny Kate Elementary,470222000721,Knoxville,7608 Martin Mill Pike,37920,Knox County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,394.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
 Brickey McCloud Elementary,470222000722,Knoxville,1810 Dry Gap Pike,37918,Knox County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,888.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
 Carter Elementary,470222000724,Knoxville,8455 Strawberry Plains Pike,37924,Knox County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,536.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
-Carter High School,470222000725,Strawberry Plains,210 N Carter School Rd,37871,Knox County,"['10', '11', '12', '9']",Public,769.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['High']
+Carter High School,470222000725,Strawberry Plains,,,,,,,,
 Carter Middle School,470222000726,Strawberry Plains,204 North Carter School Rd,37871,Knox County,"['6', '7', '8']",Public,586.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Middle']
 Cedar Bluff Middle School,470222000728,Knoxville,707 North Cedar Bluff Rd,37923,Knox County,"['6', '7', '8']",Public,555.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Middle']
 Cedar Bluff Elementary,470222000729,Knoxville,705 North Cedar Bluff Rd,37923,Knox County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,1226.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
 Corryton Elementary,470222000730,Corryton,,,,,,,,
 South Doyle High School,470222000732,Knoxville,2020 Tipton Station Rd,37920,Knox County,"['10', '11', '12', '9']",Public,992.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['High']
 South Doyle Middle School,470222000733,Knoxville,3900 Decatur Rd,37920,Knox County,"['6', '7', '8']",Public,798.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Middle']
-Farragut High School,470222000735,Knoxville,11237 Kingston Pike,37922,Knox County,"['10', '11', '12', '9']",Public,2096.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['High']
+Farragut High School,470222000735,Knoxville,,,,,,,,
 Farragut Intermediate,470222000736,Knoxville,208 West End Ave,37922,Knox County,"['3', '4', '5']",Public,1110.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
 Farragut Middle School,470222000737,Knoxville,200 West End Ave,37922,Knox County,"['6', '7', '8']",Public,1328.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Middle']
 Farragut Primary,470222000738,Knoxville,509 North Campbell Station Rd,37922,Knox County,"['1', '2', 'KG', 'PK']",Public,1007.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
-Gap Creek Elementary,470222000739,Knoxville,,,,,,,,
+Gap Creek Elementary,470222000739,Knoxville,1920 Kimberlin Hts Rd,37920,Knox County,"['1', '2', '3', '4', '5', 'KG']",Public,70.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
 Gibbs Elementary,470222000740,Corryton,7715 Tazewell Pike,37721,Knox County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,942.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
-Gibbs High School,470222000741,Corryton,7628 Tazewell Pike,37721,Knox County,"['10', '11', '12', '9']",Public,1040.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['High']
+Gibbs High School,470222000741,Corryton,,,,,,,,
 Halls Elementary,470222000742,Knoxville,7502 Andersonville Pike,37938,Knox County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,745.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
-Halls High School,470222000743,Knoxville,4321 East Emory Rd,37938,Knox County,"['10', '11', '12', '9']",Public,1265.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['High']
+Halls High School,470222000743,Knoxville,,,,,,,,
 Halls Middle School,470222000744,Knoxville,4317 East Emory Rd,37938,Knox County,"['6', '7', '8']",Public,1042.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Middle']
 Karns Elementary,470222000747,Knoxville,8108 Beaver Ridge Rd,37931,Knox County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,1210.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
-Karns High School,470222000748,Knoxville,2710 Byington Solway Rd,37931,Knox County,"['10', '11', '12', '9']",Public,1394.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['High']
+Karns High School,470222000748,Knoxville,,,,,,,,
 Karns Middle School,470222000749,Knoxville,2925 Gray Hendrix Rd,37931,Knox County,"['6', '7', '8']",Public,950.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Middle']
 Mt Olive Elementary,470222000752,Knoxville,2507 Maryville Pike S W,37920,Knox County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,228.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
-New Hopewell Elementary,470222000753,Knoxville,,,,,,,,
+New Hopewell Elementary,470222000753,Knoxville,757 Kimberlin Hgts Rd,37920,Knox County,"['1', '2', '3', '4', '5', 'KG']",Public,254.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
 Powell Elementary,470222000754,Powell,1711 Spring St,37849,Knox County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,805.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
-Powell High School,470222000755,Powell,2136 West Emory Rd,37849,Knox County,"['10', '11', '12', '9']",Public,1347.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['High']
+Powell High School,470222000755,Powell,,,,,,,,
 Powell Middle School,470222000756,Powell,3329 West Emory Rd,37849,Knox County,"['6', '7', '8']",Public,822.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Middle']
 Ritta Elementary,470222000758,Knoxville,6228 Washington Pike,37918,Knox County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,572.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
 Sunnyview Primary,470222000761,Knoxville,412 Bagwell Rd,37924,Knox County,"['1', '2', 'KG', 'PK']",Public,274.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
 Ft Sanders Education Development Center,470222000764,Knoxville,501 S Twenty-First St,37916,Knox County,"['1', 'KG', 'PK']",Public,430.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
-Austin East High/Magnet,470222000767,Knoxville,2800 M L King Jr Ave,37914,Knox County,"['10', '11', '12', '9']",Public,669.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['High']
+Austin East High/Magnet,470222000767,Knoxville,,,,,,,,
 Bearden Elementary,470222000768,Knoxville,5717 Kingston Pike,37919,Knox County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,363.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
 Bearden High School,470222000769,Knoxville,8352 Kingston Pike,37919,Knox County,"['10', '11', '12', '9']",Public,1997.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['High']
 Bearden Middle School,470222000770,Knoxville,1000 Francis Rd,37909,Knox County,"['6', '7', '8']",Public,1187.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Middle']
 Beaumont Elementary/Magnet,470222000772,Knoxville,1211 Beaumont Ave,37921,Knox County,"['1', '2', '3', '4', '5', 'KG']",Public,551.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
 Belle Morris Elementary,470222000773,Knoxville,2308 Washington Pike,37917,Knox County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,406.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
-Central High School,470222000775,Knoxville,5321 Jacksboro Pike,37918,Knox County,"['10', '11', '12', '9']",Public,1294.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['High']
-Chilhowee Intermediate,470222000776,Knoxville,5005 Asheville Hwy,37914,Knox County,"['3', '4', '5']",Public,210.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
+Central High School,470222000775,Knoxville,,,,,,,,
+Chilhowee Intermediate,470222000776,Knoxville,,,,,,,,
 Fountain City Elementary,470222000782,Knoxville,,,,,,,,
-Fulton High School,470222000783,Knoxville,2509 North Broadway,37917,Knox County,"['10', '11', '12', '9']",Public,897.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['High']
-Green Magnet Math And Science Academy,470222000785,Knoxville,,,,,,,,
+Fulton High School,470222000783,Knoxville,,,,,,,,
+Green Magnet Math And Science Academy,470222000785,Knoxville,801 Lula Powell Dr,37915,Knox County,"['1', '2', '3', '4', '5', 'KG']",Public,362.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
 Gresham Middle School,470222000786,Knoxville,500 Gresham Rd,37918,Knox County,"['6', '7', '8']",Public,791.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Middle']
 Holston Middle School,470222000787,Knoxville,600 Chilhowee Dr,37924,Knox County,"['6', '7', '8']",Public,481.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Middle']
 Inskip Elementary,470222000788,Knoxville,4701 High School St,37912,Knox County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,515.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
@@ -965,14 +966,14 @@ Pond Gap Elementary,470222000804,Knoxville,4530 Papermill Dr,37909,Knox County,"
 Ridgedale Alternative School,470222000805,Knoxville,4600 Ridgedale Rd,37921,Knox County,"['10', '11', '12', '6', '7', '8', '9']",Public,70.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,"['Middle', 'High']"
 Rocky Hill Elementary,470222000806,Knoxville,,,,,,,,
 Sarah Moore Greene Magnet Technology Academy,470222000809,Knoxville,3001 Brooks Rd,37914,Knox County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,453.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
-Sequoyah Elementary,470222000810,Knoxville,942 Southgate Rd,37919,Knox County,"['1', '2', '3', '4', '5', 'KG']",Public,487.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
-Shannondale Elementary,470222000811,Knoxville,5316 Shannondale Rd,37918,Knox County,"['1', '2', '3', '4', '5', 'KG']",Public,382.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
+Sequoyah Elementary,470222000810,Knoxville,,,,,,,,
+Shannondale Elementary,470222000811,Knoxville,,,,,,,,
 South Knox Elementary,470222000814,Knoxville,801 Sevier Ave,37920,Knox County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,196.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
 Spring Hill Elementary,470222000816,Knoxville,4711 Mildred Dr,37914,Knox County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,488.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
 Sterchi Elementary,470222000817,Knoxville,900 Oaklett Dr,37912,Knox County,"['1', '2', '3', '4', '5', 'KG']",Public,375.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
 Vine Middle Magney School,470222000820,Knoxville,1807 Martin Luther King Jr Ave,37915,Knox County,"['6', '7', '8']",Public,440.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Middle']
 West Haven Elementary,470222000821,Knoxville,3620 Sisk Rd,37921,Knox County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,348.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
-West High School,470222000822,Knoxville,3300 Sutherland Ave,37919,Knox County,"['10', '11', '12', '9']",Public,1478.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['High']
+West High School,470222000822,Knoxville,,,,,,,,
 West Hills Elementary,470222000823,Knoxville,409 Vanosdale Rd,37919,Knox County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,753.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
 West View Elementary,470222000824,Knoxville,1714 Mingle Ave,37921,Knox County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,209.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Elementary']
 Whittle Springs Middle School,470222000825,Knoxville,2700 White Oak Ln,37917,Knox County,"['6', '7', '8']",Public,434.0,https://drive.google.com/file/d/1tD8aivGHZ5LSj4imSgiaH6rS0h1e7Y4T/view,['Middle']
@@ -1027,9 +1028,9 @@ Walter J. Baird Middle School,470237000867,Lebanon,131 W J B Pride Ln,37087,Leba
 Coles Ferry Elementary,470237001998,Lebanon,511 Coles Ferry Pike,37087,Lebanon,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,563.0,https://drive.google.com/file/d/1q9ihHImI4nJ8uV7vLpyvv8X7DpK5FrZt/view,['Elementary']
 Winfree Bryant Middle School,470237002283,Lebanon,1213 Leeville Pike,37087,Lebanon,"['6', '7', '8']",Public,597.0,https://drive.google.com/file/d/1q9ihHImI4nJ8uV7vLpyvv8X7DpK5FrZt/view,['Middle']
 Jones Brummett Elementary School,470237002687,Lebanon,1530 Hartmann Dr,37087,Lebanon,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,634.0,https://drive.google.com/file/d/1q9ihHImI4nJ8uV7vLpyvv8X7DpK5FrZt/view,['Elementary']
-Lenoir City High School,470240000868,Lenoir City,,,,,,,,
+Lenoir City High School,470240000868,Lenoir City,1485 Old Hwy 95,37771,Lenoir City,"['10', '11', '12', '9']",Public,1223.0,https://drive.google.com/file/d/18IzxY4fmKGcyPdtt11juIFPRETR77Jr0/view,['High']
 Lenoir City Intermediate/Middle School,470240000869,Lenoir City,2141 Harrison Ave,37771,Lenoir City,"['4', '5', '6', '7', '8']",Public,677.0,https://drive.google.com/file/d/18IzxY4fmKGcyPdtt11juIFPRETR77Jr0/view,"['Elementary', 'Middle']"
-Lenoir City Elementary,470240001955,Lenoir City,,,,,,,,
+Lenoir City Elementary,470240001955,Lenoir City,203 Kelly Ln,37771,Lenoir City,"['1', '2', '3', 'KG', 'PK']",Public,583.0,https://drive.google.com/file/d/18IzxY4fmKGcyPdtt11juIFPRETR77Jr0/view,['Elementary']
 The iLearn Institute at Lenoir City Schools,470240002662,Lenoir City,200 East Broadway St,37771,Lenoir City,"['1', '10', '11', '12', '2', '3', '4', '5', '6', '7', '8', '9', 'KG']",Public,85.0,https://drive.google.com/file/d/18IzxY4fmKGcyPdtt11juIFPRETR77Jr0/view,"['Elementary', 'Middle', 'High']"
 Lewis County Middle School,470243000872,Hohenwald,,,,,,,,
 Lewis County Elementary,470243000873,Hohenwald,,,,,,,,
@@ -1040,7 +1041,7 @@ Volunteer State Virtual Academy High School,470243010484,Hohenwald,,,,,,,,
 Volunteer State Virtual Academy Middle School,470243010485,Hohenwald,,,,,,,,
 Lexington Middle School,470246000875,Lexington,,,,,,,,
 Paul G. Caywood Elementary,470246002031,Lexington,,,,,,,,
-South Lincoln School,470249000079,Fayetteville,,,,,,,,
+South Lincoln School,470249000079,Fayetteville,362 Smith Mill Rd,37334,Lincoln County,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,652.0,,"['Elementary', 'Middle']"
 Unity School,470249000080,Petersburg,,,,,,,,
 Flintville School,470249000884,Flintville,,,,,,,,
 Highland Rim School,470249000885,Fayetteville,,,,,,,,
@@ -1093,11 +1094,11 @@ Jackson Central Merry Middle School,470258002664,Jackson,332 Lane Ave,38301,Madi
 Jackson Academic STEAM Academy,470258002665,Jackson,1938 Emporium Dr,38305,Madison County,"['1', '10', '11', '12', '2', '3', '4', '5', '6', '7', '8', '9', 'KG']",Public,325.0,https://drive.google.com/file/d/1-IkuhRs5X7RE5k0z2SruZAE5iPiitm4w/view,"['Elementary', 'Middle', 'High']"
 College Street Elementary,470261000929,Manchester,,,,,,,,
 Westwood Elementary,470261000930,Manchester,,,,,,,,
-Westwood Middle School,470261000931,Manchester,,,,,,,,
+Westwood Middle School,470261000931,Manchester,505 Taylor St,37355,Manchester,"['6', '7', '8']",Public,462.0,https://drive.google.com/file/d/1Ka0O0RBkDlfBzvhDYaVVgIbICg6oiT1Y/view,['Middle']
 Jasper Elementary School,470264000935,Jasper,,,,,,,,
 Marion Co High School,470264000936,Jasper,,,,,,,,
 Monteagle Elementary,470264000937,Monteagle,,,,,,,,
-South Pittsburg Elementary,470264000940,South Pittsburg,,,,,,,,
+South Pittsburg Elementary,470264000940,South Pittsburg,310 Elm Ave,37380,Marion County,"['1', '2', '3', '4', '5', '6', 'KG', 'PK']",Public,521.0,https://drive.google.com/file/d/1othKaDPNq42RuOVLU5ixRFsLMOZ1jC7H/view,['Elementary']
 South Pittsburg High School,470264000941,South Pittsburg,,,,,,,,
 Whitwell Middle School,470264000943,Whitwell,,,,,,,,
 Whitwell High School,470264000944,Whitwell,,,,,,,,
@@ -1118,11 +1119,11 @@ Westhills Elementary,470267001956,Lewisburg,,,,,,,,
 Delk-Henson Intermediate School,470267002440,Chapel Hill,,,,,,,,
 Foothills Elementary,470270000360,Maryville,,,,,,,,
 John Sevier Elementary,470270000957,Maryville,,,,,,,,
-Maryville High School,470270000958,Maryville,825 Lawrence Ave,37803,Maryville,"['10', '11', '12']",Public,1242.0,https://drive.google.com/file/d/1HfG9OzsrrkZbRmK0Yi2dU6-LPexgLvGw/view,['High']
+Maryville High School,470270000958,Maryville,,,,,,,,
 Maryville Junior High School,470270000959,Maryville,,,,,,,,
 Sam Houston Elementary,470270000960,Maryville,,,,,,,,
-Montgomery Ridge Intermediate School,470270001242,Maryville,,,,,,,,
-Coulter Grove Intermediate School,470270002306,Maryville,,,,,,,,
+Montgomery Ridge Intermediate School,470270001242,Maryville,835 Montgomery Ln,37803,Maryville,"['4', '5', '6', '7']",Public,862.0,https://drive.google.com/file/d/1HfG9OzsrrkZbRmK0Yi2dU6-LPexgLvGw/view,"['Elementary', 'Middle']"
+Coulter Grove Intermediate School,470270002306,Maryville,2025 Sevierville Rd,37804,Maryville,"['4', '5', '6', '7']",Public,881.0,https://drive.google.com/file/d/1HfG9OzsrrkZbRmK0Yi2dU6-LPexgLvGw/view,"['Elementary', 'Middle']"
 Maryville Virtual School,470270010416,Maryville,,,,,,,,
 E. A. Cox Middle School,470276000846,Columbia,633 Bear Creek Pike,38401,Maury County,"['5', '6', '7', '8']",Public,656.0,https://drive.google.com/file/d/1ixwnBozzpke1bRmAX1P_nulpwvAduKoO/view,['Middle']
 J. R. Baker Elementary,470276000961,Columbia,1301 Hamphire Pike,38401,Maury County,"['1', '2', '3', '4', 'KG', 'PK']",Public,327.0,https://drive.google.com/file/d/1ixwnBozzpke1bRmAX1P_nulpwvAduKoO/view,['Elementary']
@@ -1154,7 +1155,7 @@ Rogers Creek Elementary,470282000030,Athens,,,,,,,,
 Calhoun Elementary,470282000986,Calhoun,,,,,,,,
 Central High School,470282000987,Englewood,,,,,,,,
 E K Baker Elementary,470282000989,Athens,,,,,,,,
-Englewood Elementary,470282000990,Englewood,,,,,,,,
+Englewood Elementary,470282000990,Englewood,108 College St,37329,McMinn County,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,539.0,https://drive.google.com/file/d/1kvMMaPf3yhKsI72XDNCoPfcxGTo0s6ow/view,"['Elementary', 'Middle']"
 McMinn High School,470282000993,Athens,,,,,,,,
 Mountain View Elementary,470282000994,Etowah,,,,,,,,
 Niota Elementary,470282000995,Niota,,,,,,,,
@@ -1190,51 +1191,51 @@ Vonore Elementary,470300001203,Vonore,,,,,,,,
 Madisonville Intermediate School,470300001883,Madisonville,,,,,,,,
 Vonore Middle School,470300002069,Vonore,,,,,,,,
 Monroe County Virtual School,470300010432,Madisonville,,,,,,,,
-Kenwood Elementary,470303000102,Clarksville,1101 Peachers Mill Rd,37042,Montgomery County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,687.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-Hazelwood Elementary,470303000410,Clarksville,2623 Tiny Town Rd,37042,Montgomery County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,924.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-Liberty Elementary,470303000484,Clarksville,849 S Liberty Church Rd,37042,Montgomery County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,804.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-Kenwood High,470303000850,Clarksville,251 E Pine Mountain Rd,37042,Montgomery County,"['10', '11', '12', '9']",Public,1291.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['High']
-Sango Elementary,470303000851,Clarksville,3585 Sango Rd,37043,Montgomery County,"['1', '2', '3', '4', '5', 'KG']",Public,895.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-Rossview Middle,470303000951,Clarksville,2265 Cardinal Ln,37043,Montgomery County,"['6', '7', '8']",Public,1022.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Middle']
-Glenellen Elementary,470303001121,Clarksville,825 Needmore Rd,37040,Montgomery County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,1002.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-Barksdale Elementary,470303001205,Clarksville,1920 Madison St,37043,Montgomery County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,496.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-Burt Elementary,470303001206,Clarksville,110 Bailey St,37040,Montgomery County,"['3', '4', '5']",Public,354.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-Byrns Darden Elementary,470303001207,Clarksville,609 E St,37042,Montgomery County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,536.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-Montgomery Central Elementary,470303001208,Cunningham,4011 Highway 48,37052,Montgomery County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,476.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-Montgomery Central High,470303001209,Cunningham,3955 Highway 48,37052,Montgomery County,"['10', '11', '12', '9']",Public,1056.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['High']
-Clarksville High,470303001210,Clarksville,151 Richview Rd,37043,Montgomery County,"['10', '11', '12', '9']",Public,1561.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['High']
-Cumberland Heights Elementary,470303001211,Clarksville,2093 Ussery Rd S,37040,Montgomery County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,592.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-East Montgomery Elementary,470303001212,Clarksville,230 McAdoo Creek Rd,37043,Montgomery County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,715.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-Moore Magnet Elementary,470303001216,Clarksville,1350 Madison St,37040,Montgomery County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,490.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-Norman Smith Elementary,470303001217,Clarksville,740 Greenwood Ave,37040,Montgomery County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,566.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-New Providence Middle,470303001218,Clarksville,146 Cunningham Ln,37042,Montgomery County,"['6', '7', '8']",Public,1058.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Middle']
-Northwest High,470303001219,Clarksville,800 Lafayette Rd,37042,Montgomery County,"['10', '11', '12', '9']",Public,1456.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['High']
-Ringgold Elementary,470303001220,Clarksville,240 Ringgold Rd,37042,Montgomery County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,801.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-St. Bethlehem Elementary,470303001221,Clarksville,2450 Old Russellville Pike,37040,Montgomery County,"['1', '2', 'KG', 'PK']",Public,504.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-Woodlawn Elementary,470303001222,Woodlawn,2250 Woodlawn Rd,37191,Montgomery County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,737.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-Rossview High,470303001477,Clarksville,1237 Rossview Rd,37043,Montgomery County,"['10', '11', '12', '9']",Public,2030.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['High']
-Northeast High,470303001855,Clarksville,3701 Trenton Rd,37040,Montgomery County,"['10', '11', '12', '9']",Public,1728.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['High']
-Richview Middle,470303001856,Clarksville,2350 Memorial Dr,37043,Montgomery County,"['6', '7', '8']",Public,1104.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Middle']
-Minglewood Elementary,470303001984,Clarksville,215 Cunningham Ln,37042,Montgomery County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,744.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-Montgomery Central Middle,470303001985,Cunningham,3941 Highway 48,37052,Montgomery County,"['6', '7', '8']",Public,806.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Middle']
-Northeast Elementary,470303002010,Clarksville,3705 Trenton Rd,37040,Montgomery County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,868.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-Northeast Middle,470303002011,Clarksville,3703 Trenton Rd,37040,Montgomery County,"['6', '7', '8']",Public,1026.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Middle']
-Barkers Mill Elementary,470303002108,Clarksville,1230 Little Bobcat Ln,37042,Montgomery County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,975.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-West Creek Middle,470303002123,Clarksville,1200 W Creek Coyote Trail,37042,Montgomery County,"['6', '7', '8']",Public,1172.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Middle']
-West Creek Elementary,470303002152,Clarksville,1201 W Creek Coyote TRL,37042,Montgomery County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,1053.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-West Creek High,470303002153,Clarksville,1210 W Creek Coyote Trail,37042,Montgomery County,"['10', '11', '12', '9']",Public,1755.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['High']
-Rossview Elementary,470303002156,Clarksville,2235 Cardinal Ln,37043,Montgomery County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,1261.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-Middle College @ Austin Peay State University,470303002158,Clarksville,601 College St,37044,Montgomery County,"['11', '12']",Public,105.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['High']
-Carmel Elementary,470303002310,Clarksville,4925 Sango Rd,37043,Montgomery County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,647.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-Pisgah Elementary,470303002341,Clarksville,1770 Hazelwood Rd,37042,Montgomery County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,971.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-Oakland Elementary,470303002444,Clarksville,1050 Cherry Blossom Ln,37040,Montgomery County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,1170.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-CMCSS Adult High School,470303002667,Clarksville,430 Greenwood Ave,37040,Montgomery County,"['10', '11', '12', '9']",Public,97.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['High']
-CMCSS K-12 Virtual School,470303002668,Clarksville,1312 Highway 48,37040,Montgomery County,"['1', '10', '11', '12', '2', '3', '4', '5', '6', '7', '8', '9', 'KG']",Public,888.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,"['Elementary', 'Middle', 'High']"
-Spanish Immersion @ Barksdale,470303002669,Clarksville,1920 Madison St,37043,Montgomery County,"['1', '2', '3', '4', '5', 'KG']",Public,218.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
-Kenwood Middle,470303010361,Clarksville,241 E Pine Mountain Rd,37042,Montgomery County,"['6', '7', '8']",Public,1121.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Middle']
-Kirkwood Middle,470303010433,Clarksville,2700 Rossview Rd,37043,Montgomery County,"['6', '7', '8']",Public,1011.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Middle']
-Kirkwood High,470303010488,Clarksville,2702 Rossview RD,37043,Montgomery County,"['10', '11', '12', '9']",Public,,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['High']
-Lynchburg Elementary,470306001223,Lynchburg,,,,,,,,
+Kenwood Elementary,470303000102,Clarksville,1101 Peachers Mill Rd,37042,Clarksville-Montgomery,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,687.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+Hazelwood Elementary,470303000410,Clarksville,2623 Tiny Town Rd,37042,Clarksville-Montgomery,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,924.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+Liberty Elementary,470303000484,Clarksville,849 S Liberty Church Rd,37042,Clarksville-Montgomery,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,804.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+Kenwood High,470303000850,Clarksville,251 E Pine Mountain Rd,37042,Clarksville-Montgomery,"['10', '11', '12', '9']",Public,1291.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['High']
+Sango Elementary,470303000851,Clarksville,3585 Sango Rd,37043,Clarksville-Montgomery,"['1', '2', '3', '4', '5', 'KG']",Public,895.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+Rossview Middle,470303000951,Clarksville,2265 Cardinal Ln,37043,Clarksville-Montgomery,"['6', '7', '8']",Public,1022.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Middle']
+Glenellen Elementary,470303001121,Clarksville,825 Needmore Rd,37040,Clarksville-Montgomery,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,1002.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+Barksdale Elementary,470303001205,Clarksville,1920 Madison St,37043,Clarksville-Montgomery,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,496.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+Burt Elementary,470303001206,Clarksville,110 Bailey St,37040,Clarksville-Montgomery,"['3', '4', '5']",Public,354.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+Byrns Darden Elementary,470303001207,Clarksville,609 E St,37042,Clarksville-Montgomery,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,536.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+Montgomery Central Elementary,470303001208,Cunningham,4011 Highway 48,37052,Clarksville-Montgomery,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,476.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+Montgomery Central High,470303001209,Cunningham,3955 Highway 48,37052,Clarksville-Montgomery,"['10', '11', '12', '9']",Public,1056.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['High']
+Clarksville High,470303001210,Clarksville,151 Richview Rd,37043,Clarksville-Montgomery,"['10', '11', '12', '9']",Public,1561.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['High']
+Cumberland Heights Elementary,470303001211,Clarksville,2093 Ussery Rd S,37040,Clarksville-Montgomery,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,592.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+East Montgomery Elementary,470303001212,Clarksville,230 McAdoo Creek Rd,37043,Clarksville-Montgomery,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,715.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+Moore Magnet Elementary,470303001216,Clarksville,1350 Madison St,37040,Clarksville-Montgomery,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,490.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+Norman Smith Elementary,470303001217,Clarksville,740 Greenwood Ave,37040,Clarksville-Montgomery,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,566.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+New Providence Middle,470303001218,Clarksville,146 Cunningham Ln,37042,Clarksville-Montgomery,"['6', '7', '8']",Public,1058.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Middle']
+Northwest High,470303001219,Clarksville,800 Lafayette Rd,37042,Clarksville-Montgomery,"['10', '11', '12', '9']",Public,1456.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['High']
+Ringgold Elementary,470303001220,Clarksville,240 Ringgold Rd,37042,Clarksville-Montgomery,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,801.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+St. Bethlehem Elementary,470303001221,Clarksville,2450 Old Russellville Pike,37040,Clarksville-Montgomery,"['1', '2', 'KG', 'PK']",Public,504.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+Woodlawn Elementary,470303001222,Woodlawn,2250 Woodlawn Rd,37191,Clarksville-Montgomery,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,737.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+Rossview High,470303001477,Clarksville,1237 Rossview Rd,37043,Clarksville-Montgomery,"['10', '11', '12', '9']",Public,2030.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['High']
+Northeast High,470303001855,Clarksville,3701 Trenton Rd,37040,Clarksville-Montgomery,"['10', '11', '12', '9']",Public,1728.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['High']
+Richview Middle,470303001856,Clarksville,2350 Memorial Dr,37043,Clarksville-Montgomery,"['6', '7', '8']",Public,1104.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Middle']
+Minglewood Elementary,470303001984,Clarksville,215 Cunningham Ln,37042,Clarksville-Montgomery,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,744.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+Montgomery Central Middle,470303001985,Cunningham,3941 Highway 48,37052,Clarksville-Montgomery,"['6', '7', '8']",Public,806.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Middle']
+Northeast Elementary,470303002010,Clarksville,3705 Trenton Rd,37040,Clarksville-Montgomery,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,868.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+Northeast Middle,470303002011,Clarksville,3703 Trenton Rd,37040,Clarksville-Montgomery,"['6', '7', '8']",Public,1026.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Middle']
+Barkers Mill Elementary,470303002108,Clarksville,1230 Little Bobcat Ln,37042,Clarksville-Montgomery,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,975.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+West Creek Middle,470303002123,Clarksville,1200 W Creek Coyote Trail,37042,Clarksville-Montgomery,"['6', '7', '8']",Public,1172.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Middle']
+West Creek Elementary,470303002152,Clarksville,1201 W Creek Coyote TRL,37042,Clarksville-Montgomery,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,1053.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+West Creek High,470303002153,Clarksville,1210 W Creek Coyote Trail,37042,Clarksville-Montgomery,"['10', '11', '12', '9']",Public,1755.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['High']
+Rossview Elementary,470303002156,Clarksville,2235 Cardinal Ln,37043,Clarksville-Montgomery,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,1261.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+Middle College @ Austin Peay State University,470303002158,Clarksville,601 College St,37044,Clarksville-Montgomery,"['11', '12']",Public,105.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['High']
+Carmel Elementary,470303002310,Clarksville,4925 Sango Rd,37043,Clarksville-Montgomery,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,647.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+Pisgah Elementary,470303002341,Clarksville,1770 Hazelwood Rd,37042,Clarksville-Montgomery,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,971.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+Oakland Elementary,470303002444,Clarksville,1050 Cherry Blossom Ln,37040,Clarksville-Montgomery,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,1170.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+CMCSS Adult/Alternative High School,470303002667,Clarksville,430 Greenwood Ave,37040,Clarksville-Montgomery,"['10', '11', '12', '9']",Public,97.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['High']
+CMCSS K-12 Virtual School,470303002668,Clarksville,1312 Highway 48,37040,Clarksville-Montgomery,"['1', '10', '11', '12', '2', '3', '4', '5', '6', '7', '8', '9', 'KG']",Public,888.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,"['Elementary', 'Middle', 'High']"
+Spanish Immersion @ Barksdale,470303002669,Clarksville,1920 Madison St,37043,Clarksville-Montgomery,"['1', '2', '3', '4', '5', 'KG']",Public,218.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Elementary']
+Kenwood Middle,470303010361,Clarksville,241 E Pine Mountain Rd,37042,Clarksville-Montgomery,"['6', '7', '8']",Public,1121.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Middle']
+Kirkwood Middle,470303010433,Clarksville,2700 Rossview Rd,37043,Clarksville-Montgomery,"['6', '7', '8']",Public,1011.0,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['Middle']
+Kirkwood High,470303010488,Clarksville,2702 Rossview RD,37043,Clarksville-Montgomery,"['10', '11', '12', '9']",Public,,https://drive.google.com/file/d/1wVeMcIYqTowlF-Vf5W5NDUcKKVxMY8WN/view,['High']
+Lynchburg Elementary,470306001223,Lynchburg,276 Mechanic Street North,37352,Moore County,"['1', '2', '3', '4', '5', '6', 'KG', 'PK']",Public,478.0,https://drive.google.com/file/d/1wKkA-lRyIl2kHRR-1HspdZmDYiFQx5sh/view,['Elementary']
 Moore County High School,470306001224,Lynchburg,,,,,,,,
 Central Elementary,470309001226,Wartburg,,,,,,,,
 Central High School,470309001227,Wartburg,1119 Knoxville Hwy,37887,Morgan County,"['10', '11', '12', '9']",Public,376.0,https://drive.google.com/file/d/1PQiC7Y40tuM9ibPNdcq7i7lT54rYgPSJ/view,['High']
@@ -1252,7 +1253,7 @@ Mitchell-Neilson Elementary,470315001251,Murfreesboro,711 Clark Blvd,37129,Murfr
 John Pittard Elementary,470315001253,Murfreesboro,745 DeJarnett Ln,37130,Murfreesboro,"['1', '2', '3', '4', '5', '6', 'KG', 'PK']",Public,821.0,https://drive.google.com/file/d/1rSH3k8Llp1DJmkgUSZAsLfaNK1W2RHJD/view,['Elementary']
 Northfield Elementary,470315001975,Murfreesboro,550 W Northfield Blvd,37129,Murfreesboro,"['1', '2', '3', '4', '5', '6', 'KG', 'PK']",Public,727.0,https://drive.google.com/file/d/1rSH3k8Llp1DJmkgUSZAsLfaNK1W2RHJD/view,['Elementary']
 Black Fox Elementary,470315002012,Murfreesboro,1753 South Rutherford Blvd,37130,Murfreesboro,"['1', '2', '3', '4', '5', '6', 'KG', 'PK']",Public,813.0,https://drive.google.com/file/d/1rSH3k8Llp1DJmkgUSZAsLfaNK1W2RHJD/view,['Elementary']
-Scales Elementary School,470315002073,Murfreesboro,,,,,,,,
+Scales Elementary School,470315002073,Murfreesboro,2340 St. Andrews Dr,37128,Murfreesboro,"['1', '2', '3', '4', '5', 'KG']",Public,1049.0,https://drive.google.com/file/d/1rSH3k8Llp1DJmkgUSZAsLfaNK1W2RHJD/view,['Elementary']
 Reeves-Rogers Elementary,470315002425,Murfreesboro,1807 Greenland Dr,37130,Murfreesboro,"['1', '2', '3', '4', '5', 'KG']",Public,346.0,https://drive.google.com/file/d/1rSH3k8Llp1DJmkgUSZAsLfaNK1W2RHJD/view,['Elementary']
 Overall Creek Elementary,470315002426,Murfreesboro,429 Otter TRL,37128,Murfreesboro,"['1', '2', '3', '4', '5', '6', 'KG']",Public,964.0,https://drive.google.com/file/d/1rSH3k8Llp1DJmkgUSZAsLfaNK1W2RHJD/view,['Elementary']
 Salem Elementary School,470315002591,Murfreesboro,3275 St. Bernard Dr,37128,Murfreesboro,"['1', '2', '3', '4', '5', '6', 'KG', 'PK']",Public,968.0,https://drive.google.com/file/d/1rSH3k8Llp1DJmkgUSZAsLfaNK1W2RHJD/view,['Elementary']
@@ -1405,7 +1406,7 @@ Smith Springs Elementary School,470318002435,Antioch,3132 Smith Springs Rd,37013
 Strive Collegiate Academy,470318002439,Nashville,3055 Lebanon Pike,37214,Metro Nashville Public Schools,"['6', '7', '8']",Public Charter,283.0,https://drive.google.com/file/d/1A4h4YNjOMlL-DpqEOltTxSK3dyWsDIrF/view,['Middle']
 RePublic High School,470318002446,Nashville,3307 Brick Church Pike,37207,Metro Nashville Public Schools,"['10', '11', '12', '9']",Public Charter,622.0,https://drive.google.com/file/d/1A4h4YNjOMlL-DpqEOltTxSK3dyWsDIrF/view,['High']
 Explore Community School,470318002449,Nashville,707 S 7th St,37206,Metro Nashville Public Schools,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG']",Public Charter,535.0,https://drive.google.com/file/d/1A4h4YNjOMlL-DpqEOltTxSK3dyWsDIrF/view,"['Elementary', 'Middle']"
-KIPP Academy Nashville Elementary School,470318002451,Nashville,1000 Sevier St,37206,Metro Nashville Public Schools,"['1', '2', '3', '4', 'KG']",Public Charter,334.0,https://drive.google.com/file/d/1A4h4YNjOMlL-DpqEOltTxSK3dyWsDIrF/view,['Elementary']
+KIPP Kirkpatrick Elementary,470318002451,Nashville,1000 Sevier St,37206,Metro Nashville Public Schools,"['1', '2', '3', '4', 'KG']",Public Charter,334.0,https://drive.google.com/file/d/1A4h4YNjOMlL-DpqEOltTxSK3dyWsDIrF/view,['Elementary']
 Rocketship United,470318002453,Nashville,320 Plus Park Blvd,37217,Metro Nashville Public Schools,"['1', '2', '3', '4', 'KG']",Public Charter,491.0,https://drive.google.com/file/d/1A4h4YNjOMlL-DpqEOltTxSK3dyWsDIrF/view,['Elementary']
 Waverly-Belmont Elementary School,470318002457,Nashville,2301 10th Ave South,37204,Metro Nashville Public Schools,"['1', '2', '3', '4', '5', 'KG']",Public,481.0,https://drive.google.com/file/d/1A4h4YNjOMlL-DpqEOltTxSK3dyWsDIrF/view,['Elementary']
 East Nashville Middle,470318002468,Nashville,110 Gallatin Rd,37206,Metro Nashville Public Schools,"['5', '6', '7', '8']",Public,261.0,https://drive.google.com/file/d/1A4h4YNjOMlL-DpqEOltTxSK3dyWsDIrF/view,['Middle']
@@ -1421,23 +1422,23 @@ James Lawson High School,470318010473,Nashville,8001 Highway 70S,37221,Metro Nas
 Nashville Classical West,470318010474,Nashville,,,,,,,,
 Newport Grammar School,470321001390,Newport,,,,,,,,
 Glenwood Elementary,470324001393,Oak Ridge,125 Audubon Rd,37830,Oak Ridge,"['1', '2', '3', '4', 'KG']",Public,367.0,https://drive.google.com/file/d/17XJIr4AtljT4Z50kXSvkMh8epmPTCQ2P/view,['Elementary']
-Jefferson Middle School,470324001394,Oak Ridge,,,,,,,,
+Jefferson Middle School,470324001394,Oak Ridge,200 Fairbanks Rd,37830,Oak Ridge,"['5', '6', '7', '8']",Public,721.0,https://drive.google.com/file/d/17XJIr4AtljT4Z50kXSvkMh8epmPTCQ2P/view,['Middle']
 Linden Elementary,470324001395,Oak Ridge,700 Robertsville Rd,37830,Oak Ridge,"['1', '2', '3', '4', 'KG']",Public,543.0,https://drive.google.com/file/d/17XJIr4AtljT4Z50kXSvkMh8epmPTCQ2P/view,['Elementary']
 Oak Ridge High School,470324001396,Oak Ridge,1450 Oak Ridge Turnpike,37830,Oak Ridge,"['10', '11', '12', '9']",Public,1587.0,https://drive.google.com/file/d/17XJIr4AtljT4Z50kXSvkMh8epmPTCQ2P/view,['High']
 Robertsville Middle School,470324001397,Oak Ridge,,,,,,,,
 Willow Brook Elementary,470324001398,Oak Ridge,298 Robertsville Rd,37830,Oak Ridge,"['1', '2', '3', '4', 'KG']",Public,391.0,https://drive.google.com/file/d/17XJIr4AtljT4Z50kXSvkMh8epmPTCQ2P/view,['Elementary']
 Woodland Elementary,470324001399,Oak Ridge,168 Manhattan Ave,37830,Oak Ridge,"['1', '2', '3', '4', 'KG']",Public,419.0,https://drive.google.com/file/d/17XJIr4AtljT4Z50kXSvkMh8epmPTCQ2P/view,['Elementary']
 Preschool,470324001963,Oak Ridge,,,,,,,,
-Obion County Central High School,470327001406,Troy,,,,,,,,
-South Fulton Elementary,470327001408,South Fulton,,,,,,,,
+Obion County Central High School,470327001406,Troy,528 North Highway 51,38260,Obion County,"['10', '11', '12', '9']",Public,745.0,https://drive.google.com/file/d/14SGUeZTocc7zMOSlmPFbE4fWwnqB8kQ4/view,['High']
+South Fulton Elementary,470327001408,South Fulton,209 John C. Jones Pkwy,38257,Obion County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,309.0,https://drive.google.com/file/d/14SGUeZTocc7zMOSlmPFbE4fWwnqB8kQ4/view,['Elementary']
 South Fulton Middle / High School,470327001409,South Fulton,,,,,,,,
-Lake Road Elementary,470327001925,Union City,,,,,,,,
-Black Oak Elementary,470327001964,Hornbeak,,,,,,,,
-Hillcrest Elementary,470327001976,Troy,,,,,,,,
-Ridgemont Elementary,470327002014,Union City,,,,,,,,
+Lake Road Elementary,470327001925,Union City,1130 East Highway 22,38261,Obion County,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,537.0,https://drive.google.com/file/d/14SGUeZTocc7zMOSlmPFbE4fWwnqB8kQ4/view,"['Elementary', 'Middle']"
+Black Oak Elementary,470327001964,Hornbeak,365 North Shawtown Rd,38232,Obion County,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,240.0,https://drive.google.com/file/d/14SGUeZTocc7zMOSlmPFbE4fWwnqB8kQ4/view,"['Elementary', 'Middle']"
+Hillcrest Elementary,470327001976,Troy,605 South Main St,38260,Obion County,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,559.0,https://drive.google.com/file/d/14SGUeZTocc7zMOSlmPFbE4fWwnqB8kQ4/view,"['Elementary', 'Middle']"
+Ridgemont Elementary,470327002014,Union City,1285 N Highway 45 By - Pass,38261,Obion County,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,379.0,https://drive.google.com/file/d/14SGUeZTocc7zMOSlmPFbE4fWwnqB8kQ4/view,"['Elementary', 'Middle']"
 Oneida Middle School,470330000031,Oneida,,,,,,,,
 Oneida Elementary,470330001412,Oneida,,,,,,,,
-Oneida High School,470330001413,Oneida,,,,,,,,
+Oneida High School,470330001413,Oneida,372 North Main,37841,Oneida Special School District,"['10', '11', '12', '9']",Public,415.0,https://drive.google.com/file/d/1g6Ia22WU_HS7zIUmYOVxbZAznSnkpOvG/view,['High']
 Allons Elementary,470333001414,Allons,,,,,,,,
 Hilham Elementary,470333001417,Hilham,,,,,,,,
 Livingston Academy,470333001419,Livingston,,,,,,,,
@@ -1463,25 +1464,25 @@ South Polk Elementary,470345001445,Old Fort,,,,,,,,
 Polk County High School,470345001900,Benton,,,,,,,,
 Copper Basin Elementary School,470345002070,Copperhill,,,,,,,,
 Polk Innovative Learning Academy,470345002599,Benton,,,,,,,,
-Putnam Co Adult High School,470348000367,Cookeville,,,,,,,,
-Cane Creek Elementary,470348000413,Cookeville,,,,,,,,
+Putnam Co Adult High School,470348000367,Cookeville,268 East Main St,38506,Putnam County,"['10', '11', '12', '9']",Public,43.0,https://drive.google.com/file/d/1XKsqvlVjU85UrEfV5wh_uusAWjPNbSGX/view,['High']
+Cane Creek Elementary,470348000413,Cookeville,1500 West Jackson St,38501,Putnam County,"['1', '2', '3', '4', 'KG', 'PK']",Public,437.0,https://drive.google.com/file/d/1XKsqvlVjU85UrEfV5wh_uusAWjPNbSGX/view,['Elementary']
 Avery Trace Middle School,470348000497,Cookeville,230 Raider Dr,38501,Putnam County,"['5', '6', '7', '8']",Public,720.0,https://drive.google.com/file/d/1XKsqvlVjU85UrEfV5wh_uusAWjPNbSGX/view,['Middle']
 Cornerstone Elementary,470348001449,Baxter,371 First Avenue South,38544,Putnam County,"['2', '3', '4']",Public,358.0,https://drive.google.com/file/d/1XKsqvlVjU85UrEfV5wh_uusAWjPNbSGX/view,['Elementary']
-Capshaw Elementary,470348001451,Cookeville,,,,,,,,
-Jere Whitson Elementary,470348001453,Cookeville,,,,,,,,
+Capshaw Elementary,470348001451,Cookeville,1 Cougar Ln,38501,Putnam County,"['1', '2', '3', '4', 'KG', 'PK']",Public,521.0,https://drive.google.com/file/d/1XKsqvlVjU85UrEfV5wh_uusAWjPNbSGX/view,['Elementary']
+Jere Whitson Elementary,470348001453,Cookeville,178 East Jere Whitson Rd,38501,Putnam County,"['1', '2', '3', '4', 'KG', 'PK']",Public,327.0,https://drive.google.com/file/d/1XKsqvlVjU85UrEfV5wh_uusAWjPNbSGX/view,['Elementary']
 Monterey High School,470348001454,Monterey,710 East Commercial Ave,38574,Putnam County,"['10', '11', '12', '7', '8', '9']",Public,572.0,https://drive.google.com/file/d/1XKsqvlVjU85UrEfV5wh_uusAWjPNbSGX/view,"['Middle', 'High']"
-Northeast Elementary,470348001455,Cookeville,,,,,,,,
-Park View Elementary,470348001456,Cookeville,,,,,,,,
-Cookeville High School,470348001457,Cookeville,,,,,,,,
-Sycamore Elementary,470348001459,Cookeville,,,,,,,,
+Northeast Elementary,470348001455,Cookeville,575 N Old Kentucky Rd,38501,Putnam County,"['1', '2', '3', '4', 'KG', 'PK']",Public,435.0,https://drive.google.com/file/d/1XKsqvlVjU85UrEfV5wh_uusAWjPNbSGX/view,['Elementary']
+Park View Elementary,470348001456,Cookeville,545 Scott Ave,38501,Putnam County,"['1', '2', '3', '4', 'KG', 'PK']",Public,439.0,https://drive.google.com/file/d/1XKsqvlVjU85UrEfV5wh_uusAWjPNbSGX/view,['Elementary']
+Cookeville High School,470348001457,Cookeville,1 Cavalier Dr,38501,Putnam County,"['10', '11', '12', '9']",Public,2199.0,https://drive.google.com/file/d/1XKsqvlVjU85UrEfV5wh_uusAWjPNbSGX/view,['High']
+Sycamore Elementary,470348001459,Cookeville,452 Ellis Ave,38501,Putnam County,"['1', '2', '3', '4', 'KG', 'PK']",Public,298.0,https://drive.google.com/file/d/1XKsqvlVjU85UrEfV5wh_uusAWjPNbSGX/view,['Elementary']
 Upperman Middle School,470348001461,Baxter,6700 Nashville Hwy,38544,Putnam County,"['5', '6', '7', '8']",Public,853.0,https://drive.google.com/file/d/1XKsqvlVjU85UrEfV5wh_uusAWjPNbSGX/view,['Middle']
-Burks Elementary,470348001487,Monterey,,,,,,,,
+Burks Elementary,470348001487,Monterey,300 Crossville St,38574,Putnam County,"['1', '2', '3', '4', '5', '6', 'KG', 'PK']",Public,522.0,https://drive.google.com/file/d/1XKsqvlVjU85UrEfV5wh_uusAWjPNbSGX/view,['Elementary']
 Algood Middle School,470348001901,Cookeville,540 Dry Valley Rd,38506,Putnam County,"['5', '6', '7', '8']",Public,757.0,https://drive.google.com/file/d/1XKsqvlVjU85UrEfV5wh_uusAWjPNbSGX/view,['Middle']
-Upperman High School,470348001903,Baxter,,,,,,,,
+Upperman High School,470348001903,Baxter,6950 Nashville Hwy,38544,Putnam County,"['10', '11', '12', '9']",Public,903.0,https://drive.google.com/file/d/1XKsqvlVjU85UrEfV5wh_uusAWjPNbSGX/view,['High']
 Child Development Lab (Texas Tech),470348002162,Cookeville,,,,,,,,
-Algood Elementary,470348002195,Algood,,,,,,,,
+Algood Elementary,470348002195,Algood,2525 Old Walton Rd,38506,Putnam County,"['1', '2', '3', '4', 'KG', 'PK']",Public,521.0,https://drive.google.com/file/d/1XKsqvlVjU85UrEfV5wh_uusAWjPNbSGX/view,['Elementary']
 White Plains Academy,470348002196,Algood,288 E. Main St,38506,Putnam County,"['1', '10', '11', '12', '2', '3', '4', '5', '6', '7', '8', '9', 'KG']",Public,108.0,https://drive.google.com/file/d/1XKsqvlVjU85UrEfV5wh_uusAWjPNbSGX/view,"['Elementary', 'Middle', 'High']"
-Prescott South Elementary,470348002226,Cookeville,,,,,,,,
+Prescott South Elementary,470348002226,Cookeville,115 W. Cemetery Rd,38506,Putnam County,"['1', '2', '3', '4', 'KG', 'PK']",Public,558.0,https://drive.google.com/file/d/1XKsqvlVjU85UrEfV5wh_uusAWjPNbSGX/view,['Elementary']
 Prescott South Middle School,470348002230,Cookeville,1859 S. Jefferson St,38506,Putnam County,"['5', '6', '7', '8']",Public,812.0,https://drive.google.com/file/d/1XKsqvlVjU85UrEfV5wh_uusAWjPNbSGX/view,['Middle']
 Putnam County VITAL,470348002281,Cookeville,1400 E. Spring St,38506,Putnam County,"['1', '10', '11', '12', '2', '3', '4', '5', '6', '7', '8', '9', 'KG', 'PK']",Public,301.0,https://drive.google.com/file/d/1XKsqvlVjU85UrEfV5wh_uusAWjPNbSGX/view,"['Elementary', 'Middle', 'High']"
 Baxter Primary,470348002475,Baxter,,,,,,,,
@@ -1497,17 +1498,17 @@ Harriman Middle School,470359000566,Harriman,,,,,,,,
 Harriman High School,470359000567,Harriman,920 North Roane St,37748,Roane County,"['10', '11', '12', '9']",Public,347.0,https://www.roaneschools.com/page/salary-tables,['High']
 Bowers Elementary,470359000569,Harriman,,,,,,,,
 Cherokee Middle School,470359001475,Kingston,200 Paint Rock Ferry Rd,37763,Roane County,"['6', '7', '8']",Public,470.0,https://www.roaneschools.com/page/salary-tables,['Middle']
-Kingston Elementary,470359001479,Kingston,,,,,,,,
-Midtown Elementary,470359001480,Harriman,,,,,,,,
-Midway Elementary,470359001481,Kingston,,,,,,,,
-Midway High School,470359001482,Kingston,,,,,,,,
-Oliver Springs Middle,470359001483,Oliver Springs,317 Roane St,37840,Roane County,"['6', '7', '8']",Public,149.0,https://www.roaneschools.com/page/salary-tables,['Middle']
+Kingston Elementary,470359001479,Kingston,2000 Kingston Hwy,37763,Roane County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,808.0,https://www.roaneschools.com/page/salary-tables,['Elementary']
+Midtown Elementary,470359001480,Harriman,2830 Roane State Hwy,37748,Roane County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,297.0,https://www.roaneschools.com/page/salary-tables,['Elementary']
+Midway Elementary,470359001481,Kingston,130 Laurel Bluff Rd,37763,Roane County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,424.0,https://www.roaneschools.com/page/salary-tables,['Elementary']
+Midway High School,470359001482,Kingston,530 Loudon Hwy,37763,Roane County,"['10', '11', '12', '9']",Public,225.0,https://www.roaneschools.com/page/salary-tables,['High']
+Oliver Springs Middle,470359001483,Oliver Springs,,,,,,,,
 Oliver Springs High School,470359001484,Oliver Springs,317 Roane St,37840,Roane County,"['10', '11', '12', '9']",Public,268.0,https://www.roaneschools.com/page/salary-tables,['High']
 Ridge View Elementary,470359001485,Rockwood,625 Pumphouse Rd,37854,Roane County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,594.0,https://www.roaneschools.com/page/salary-tables,['Elementary']
-Roane County High School,470359001486,Kingston,,,,,,,,
+Roane County High School,470359001486,Kingston,540 W. Cumberland St,37763,Roane County,"['10', '11', '12', '9']",Public,652.0,https://www.roaneschools.com/page/salary-tables,['High']
 Midtown Educational Center,470359001488,Harriman,3096 Roane State Hwy,37748,Roane County,"['10', '11', '12', '6', '7', '8', '9']",Public,45.0,https://www.roaneschools.com/page/salary-tables,"['Middle', 'High']"
 Rockwood High School,470359001489,Rockwood,512 West Rockwood St,37854,Roane County,"['10', '11', '12', '9']",Public,350.0,https://www.roaneschools.com/page/salary-tables,['High']
-Rockwood Middle School,470359001490,Rockwood,434 West Rockwood St,37854,Roane County,"['6', '7', '8']",Public,273.0,https://www.roaneschools.com/page/salary-tables,['Middle']
+Rockwood Middle School,470359001490,Rockwood,,,,,,,,
 Midway Middle School,470359002036,Ten Mile,104 Dogtown Rd,37880,Roane County,"['6', '7', '8']",Public,175.0,https://www.roaneschools.com/page/salary-tables,['Middle']
 Dyllis Springs Elementary,470359002302,Oliver Springs,120 Ollis Rd,37840,Roane County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,354.0,https://www.roaneschools.com/page/salary-tables,['Elementary']
 Roane County Virtual Academy,470359002626,HARRIMAN,3096 ROANE StATE Hwy,37748,Roane County,"['1', '10', '11', '12', '2', '3', '4', '5', '6', '7', '8', '9', 'KG']",Public,52.0,https://www.roaneschools.com/page/salary-tables,"['Elementary', 'Middle', 'High']"
@@ -1592,7 +1593,7 @@ Robbins Elementary,470372001538,Robbins,,,,,,,,
 Scott High School,470372001539,Huntsville,,,,,,,,
 Huntsville Middle School,470372001540,Huntsville,,,,,,,,
 Winfield Elementary,470372001541,Winfield,,,,,,,,
-Fairview Elementary,470372001965,Huntsville,,,,,,,,
+Fairview Elementary,470372001965,Huntsville,8702 Baker Hwy,37756,Scott County,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,261.0,https://drive.google.com/file/d/1jnkBP0xShlCIV0edPFYi99Uo0RTXn5FT/view,"['Elementary', 'Middle']"
 Griffith Elementary,470375001542,Dunlap,,,,,,,,
 Sequatchie County High School,470375001544,Dunlap,,,,,,,,
 Sequatchie County Middle School,470375001546,Dunlap,7079 State Route 28,37327,Sequatchie County,"['5', '6', '7', '8']",Public,622.0,,['Middle']
@@ -1636,7 +1637,7 @@ Gordonsville Elementary School,470387001601,Gordonsville,,,,,,,,
 New Middleton Elementary,470387001602,Gordonsville,,,,,,,,
 Smith County High School,470387001604,Carthage,,,,,,,,
 Union Heights Elementary,470387001607,Carthage,,,,,,,,
-Smith County Middle School,470387001942,Carthage,,,,,,,,
+Smith County Middle School,470387001942,Carthage,134 Smith County Middle School Ln,37030,Smith County,"['5', '6', '7', '8']",Public,327.0,https://drive.google.com/file/d/1DOMng6n7zf-oLXH6WkSWuVvvYZiIxM_3/view,['Middle']
 Gordonsville High School,470387002047,Gordonsville,,,,,,,,
 Clarksburg School,470390000064,Clarksburg,,,,,,,,
 Dover Elementary,470396001610,Dover,,,,,,,,
@@ -1662,16 +1663,16 @@ Sullivan County Virtual Learning Academy,470399002677,Blountville,,,,,,,,
 Sullivan Central Middle School,470399002678,Blountville,,,,,,,,
 Sullivan Heights Middle School,470399002679,Kingsport,,,,,,,,
 West Ridge High School,470399002680,Blountville,,,,,,,,
-Robert E Ellis Middle,470402000408,Hendersonville,100 Indian Lake Rd,37075,Sumner County,"['6', '7', '8']",Public,607.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Middle']
-E B Wilson High School,470402000863,Gallatin,695 E Main St Rd,37066,Sumner County,"['10', '11', '12', '9']",Public,126.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['High']
-J W Wiseman Elementary,470402000975,Portland,922 South Broadway,37148,Sumner County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,384.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Elementary']
+Robert E Ellis Middle,470402000408,Hendersonville,,,,,,,,
+E B Wilson High School,470402000863,Gallatin,,,,,,,,
+J W Wiseman Elementary,470402000975,Portland,,,,,,,,
 Madison Creek Elementary,470402000978,Goodlettsville,1040 Madison Creek Rd,37072,Sumner County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,621.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Elementary']
-Jack Anderson Elementary,470402001179,Hendersonville,250 Shutes Ln,37075,Sumner County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,830.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Elementary']
+Jack Anderson Elementary,470402001179,Hendersonville,,,,,,,,
 Joe Shafer Middle School,470402001213,Gallatin,240 Albert Gallatin Blvd,37066,Sumner County,"['6', '7', '8']",Public,666.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Middle']
-Vena Stuart Elementary,470402001215,Gallatin,780 Hart St,37066,Sumner County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,730.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Elementary']
+Vena Stuart Elementary,470402001215,Gallatin,,,,,,,,
 R T Fisher Alternative,470402001225,Gallatin,455 North Boyers,37066,Sumner County,"['1', '10', '11', '12', '2', '3', '4', '5', '6', '7', '8', '9', 'KG']",Public,122.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,"['Elementary', 'Middle', 'High']"
 Beech Elementary,470402001656,Hendersonville,,,,,,,,
-Bethpage Elementary,470402001657,Bethpage,420 Old Highway 31 E,37022,Sumner County,"['1', '2', '3', '4', '5', 'KG']",Public,278.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Elementary']
+Bethpage Elementary,470402001657,Bethpage,,,,,,,,
 Gallatin Senior High School,470402001659,Gallatin,700 Dan P. Herron Dr,37066,Sumner County,"['10', '11', '12', '9']",Public,1659.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['High']
 Guild Elementary,470402001660,Gallatin,1018 South Water St,37066,Sumner County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,625.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Elementary']
 Gene W. Brown Elementary,470402001661,Hendersonville,,,,,,,,
@@ -1679,38 +1680,38 @@ Hendersonville High School,470402001662,Hendersonville,123 Cherokee Rd,37075,Sum
 Howard Elementary,470402001663,Gallatin,,,,,,,,
 T. W. Hunter Middle School,470402001664,Hendersonville,2101 New Hope Rd,37075,Sumner County,"['6', '7', '8']",Public,551.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Middle']
 Merrol Hyde Magnet School,470402001665,Hendersonville,128 Township Dr,37075,Sumner County,"['1', '10', '11', '12', '2', '3', '4', '5', '6', '7', '8', '9', 'KG']",Public,668.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,"['Elementary', 'Middle', 'High']"
-Lakeside Park Elementary,470402001666,Hendersonville,,,,,,,,
+Lakeside Park Elementary,470402001666,Hendersonville,204 Dolphus Dr,37075,Sumner County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,334.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Elementary']
 Millersville Elementary,470402001667,Goodlettsville,1248 Louisville Hwy,37072,Sumner County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,295.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Elementary']
 Nannie Berry Elementary,470402001668,Hendersonville,138 Indian Lake Rd,37075,Sumner County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,507.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Elementary']
 North Sumner Elementary,470402001670,Bethpage,1485 North Sumner Rd,37022,Sumner County,"['1', '2', '3', '4', '5', 'KG']",Public,240.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Elementary']
 Oakmont Elementary,470402001671,Cottontown,,,,,,,,
-Portland High School,470402001672,Portland,600 College St,37148,Sumner County,"['10', '11', '12', '9']",Public,1199.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['High']
-Portland East Middle School,470402001673,Portland,604 South Broadway,37148,Sumner County,"['6', '7', '8']",Public,405.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Middle']
+Portland High School,470402001672,Portland,,,,,,,,
+Portland East Middle School,470402001673,Portland,,,,,,,,
 Clyde Riggs Elementary,470402001674,Portland,,,,,,,,
 Union Elementary School,470402001676,Gallatin,,,,,,,,
 Rucker Stewart Middle,470402001677,Gallatin,350 Hancock St,37066,Sumner County,"['6', '7', '8']",Public,661.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Middle']
-V G Hawkins Middle School,470402001678,Hendersonville,487 A. Walton Ferry Rd,37075,Sumner County,"['6', '7', '8']",Public,434.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Middle']
-Walton Ferry Elementary,470402001680,Hendersonville,,,,,,,,
-George A Whitten Elementary,470402001681,Hendersonville,140 Scotch St,37075,Sumner County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,449.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Elementary']
-Westmoreland Elementary,470402001682,Westmoreland,,,,,,,,
+V G Hawkins Middle School,470402001678,Hendersonville,,,,,,,,
+Walton Ferry Elementary,470402001680,Hendersonville,732 Walton Ferry Rd,37075,Sumner County,"['1', '2', '3', '4', '5', 'KG']",Public,410.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Elementary']
+George A Whitten Elementary,470402001681,Hendersonville,,,,,,,,
+Westmoreland Elementary,470402001682,Westmoreland,4178 Hawkins Dr,37186,Sumner County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,525.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Elementary']
 Westmoreland High School,470402001683,Westmoreland,4300 Hawkins Dr,37186,Sumner County,"['10', '11', '12', '9']",Public,526.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['High']
 White House High School,470402001684,White House,508 Tyree Springs Rd,37188,Sumner County,"['10', '11', '12', '9']",Public,824.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['High']
 White House Middle School,470402001685,White House,2020 Highway 31 West,37188,Sumner County,"['5', '6', '7', '8']",Public,758.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Middle']
-Indian Lake Elementary,470402001864,Hendersonville,,,,,,,,
-Watt Hardison Elementary,470402001865,Portland,,,,,,,,
+Indian Lake Elementary,470402001864,Hendersonville,505 Indian Lake Rd,37075,Sumner County,"['1', '2', '3', '4', '5', 'KG']",Public,501.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Elementary']
+Watt Hardison Elementary,470402001865,Portland,300 Gibson St,37148,Sumner County,"['1', '2', '3', '4', '5', 'KG']",Public,445.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Elementary']
 Beech Sr High School,470402001891,Hendersonville,3126 Long Hollow Pike,37075,Sumner County,"['10', '11', '12', '9']",Public,1475.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['High']
 Station Camp High School,470402001943,Gallatin,1040 Bison Trail,37066,Sumner County,"['10', '11', '12', '9']",Public,1110.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['High']
 Benny C. Bills Elementary School,470402001944,Gallatin,1030 Union School Rd,37066,Sumner County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,713.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Elementary']
 Harold B. Williams Elementary School,470402001945,White House,115 South Palmer Chapel Rd,37188,Sumner County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,694.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Elementary']
-Westmoreland Middle School,470402001989,Westmoreland,4128 Hawkins Dr,37186,Sumner County,"['6', '7', '8']",Public,430.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Middle']
+Westmoreland Middle School,470402001989,Westmoreland,,,,,,,,
 Station Camp Middle School,470402002048,Gallatin,281 Big Station Camp Blvd,37066,Sumner County,"['6', '7', '8']",Public,861.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Middle']
 Station Camp Elementary,470402002155,Gallatin,1020 Bison Trail,37066,Sumner County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,872.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Elementary']
 Knox Doss Middle School at Drakes Creek,470402002203,Hendersonville,1338 Drakes Creek Rd,37075,Sumner County,"['6', '7', '8']",Public,597.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Middle']
-Portland West Middle School,470402002205,Portland,110 Nolan Private Dr,37148,Sumner County,"['6', '7', '8']",Public,510.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Middle']
+Portland West Middle School,470402002205,Portland,,,,,,,,
 Portland Gateview Elementary School,470402002219,Portland,1098 Gateview Dr,37148,Sumner County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,577.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Elementary']
-Sumner County Middle College High School,470402002408,Gallatin,1480 Nashville Pike,37066,Sumner County,"['11', '12']",Public,69.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['High']
+Sumner County Middle College High School,470402002408,Gallatin,,,,,,,,
 Dr. William Burrus Elementary at Drakes Creek,470402002427,Hendersonville,,,,,,,,
-Sumner County Middle Technical College High School at Portla,470402002433,Portland,604 South Broadway,37148,Sumner County,"['11', '12']",Public,29.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['High']
+Sumner County Middle Technical College High School at Portla,470402002433,Portland,,,,,,,,
 Liberty Creek Elementary,470402010441,Gallatin,,,,,,,,
 Liberty Creek Middle School,470402010442,Gallatin,200 Wolfpack Way,37066,Sumner County,"['6', '7', '8']",Public,510.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['Middle']
 Liberty Creek High School,470402010443,Gallatin,100 Wolfpack Way,37066,Sumner County,"['10', '11', '12', '9']",Public,607.0,https://drive.google.com/file/d/1ib4nc3LBIojVV91W5u2irw28cZ4uHD6H/view,['High']
@@ -1736,8 +1737,8 @@ Peabody High School,470410001703,Trenton,,,,,,,,
 Trenton Middle School,470410001704,Trenton,2065 Hwy 45 Bypass,38382,Trenton,"['5', '6', '7', '8']",Public,399.0,https://drive.google.com/file/d/1qO45CVy7bgbUgXNazZqVOfAwZgCm1JHS/view,['Middle']
 Trenton Elementary,470410001705,Trenton,,,,,,,,
 Jim Satterfield Middle School,470417000508,Hartsville,,,,,,,,
-Trousdale Co Elementary,470417001708,Hartsville,115 Lock Six Rd,37074,Trousdale County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,674.0,https://drive.google.com/file/d/1vTkRKqtJy0wpo0dE9z1oC2c6B-CoJraV/view,['Elementary']
-Trousdale Co High School,470417001709,Hartsville,,,,,,,,
+Trousdale Co Elementary,470417001708,Hartsville,115 Lock Six Rd,37074,Trousdale County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,674.0,https://drive.google.com/file/d/10zXYMWozwAnQ1P0qGgi7eMHJlFU_ogPw/view?usp=sharing,['Elementary']
+Trousdale Co High School,470417001709,Hartsville,262 Mc Murry Blvd West,37074,Trousdale County,"['10', '11', '12', '9']",Public,392.0,https://drive.google.com/file/d/10zXYMWozwAnQ1P0qGgi7eMHJlFU_ogPw/view?usp=sharing,['High']
 Bel Aire Elementary,470420001710,Tullahoma,,,,,,,,
 East Lincoln Elementary,470420001711,Tullahoma,,,,,,,,
 East Middle School,470420001712,Tullahoma,908 Country Club Dr,37388,Tullahoma,"['6', '7', '8']",Public,376.0,https://drive.google.com/file/d/1Cn9qpHD8fbb50TYoCVqp36ztLe0Bs2lD/view,['Middle']
@@ -1747,11 +1748,11 @@ Tullahoma High School,470420001715,Tullahoma,927 North Jackson St,37388,Tullahom
 West Middle School,470420001716,Tullahoma,,,,,,,,
 Tullahoma Virtual Academy,470420002647,Tullahoma,301 West Decherd St,37388,Tullahoma,"['10', '11', '12', '8', '9']",Public,43.0,https://drive.google.com/file/d/1Cn9qpHD8fbb50TYoCVqp36ztLe0Bs2lD/view,['High']
 Unicoi Co Middle School,470423000047,Erwin,,,,,,,,
-Love Chapel Elementary,470423001719,Erwin,,,,,,,,
-Rock Creek Elementary,470423001721,Erwin,,,,,,,,
-Temple Hill Elementary,470423001722,Erwin,,,,,,,,
+Love Chapel Elementary,470423001719,Erwin,600 S. Mohawk Dr,37650,Unicoi County,"['1', '2', '3', '4', '5', 'KG']",Public,362.0,https://drive.google.com/file/d/1Miy4PpbmiwOwLhMMc8Hms4rcV2eOBwlg/view,['Elementary']
+Rock Creek Elementary,470423001721,Erwin,1121 E Erwin Rd,37650,Unicoi County,"['1', '2', '3', '4', '5', 'KG']",Public,197.0,https://drive.google.com/file/d/1Miy4PpbmiwOwLhMMc8Hms4rcV2eOBwlg/view,['Elementary']
+Temple Hill Elementary,470423001722,Erwin,797 Old Highway Rd,37650,Unicoi County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,83.0,https://drive.google.com/file/d/1Miy4PpbmiwOwLhMMc8Hms4rcV2eOBwlg/view,['Elementary']
 Unicoi Co High School,470423001723,Erwin,,,,,,,,
-Unicoi Elementary,470423001724,Unicoi,,,,,,,,
+Unicoi Elementary,470423001724,Unicoi,404 Massachusetts Ave,37692,Unicoi County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,317.0,https://drive.google.com/file/d/1Miy4PpbmiwOwLhMMc8Hms4rcV2eOBwlg/view,['Elementary']
 Unicoi Community Learning Center,470423002180,Erwin,,,,,,,,
 Union City Elementary School,470426001726,Union City,,,,,,,,
 Union City High School,470426001729,Union City,,,,,,,,
@@ -1794,8 +1795,8 @@ Washington County Adult High School,470438002095,Johnson City,,,,,,,,
 Ridgeview Elementary School,470438002154,Gray,,,,,,,,
 Grandview Elementary School,470438002160,Telford,,,,,,,,
 Tennessee Virtual Learning Academy,470438002403,Johnson City,,,,,,,,
-Boones Creek Elementary School,470438002603,Johnson City,,,,,,,,
-Jonesborough Elementary School,470438010492,Jonesborough,,,,,,,,
+Boones Creek Elementary School,470438002603,Johnson City,132 Highland Church Rd,37615,Washington County,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,788.0,https://drive.google.com/file/d/1RGzyaL3Rc2JuObVIsJIxUrna268dRDMB/view,"['Elementary', 'Middle']"
+Jonesborough Elementary School,470438010492,Jonesborough,710 N Cherokee ST,37659,Washington County,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,,https://drive.google.com/file/d/1RGzyaL3Rc2JuObVIsJIxUrna268dRDMB/view,"['Elementary', 'Middle']"
 Collinwood Elementary,470444001767,Collinwood,,,,,,,,
 Collinwood High School,470444001768,Collinwood,,,,,,,,
 Collinwood Middle School,470444001769,Collinwood,,,,,,,,
@@ -1807,11 +1808,11 @@ Waynesboro Middle School,470444001776,Waynesboro,,,,,,,,
 Wayne County Virtual School,470444002637,Waynesboro,,,,,,,,
 Dresden Elementary,470447001777,Dresden,759 Linden St,38225,Weakley County,"['1', '2', '3', '4', 'KG', 'PK']",Public,467.0,https://drive.google.com/file/d/1RyMp_qqGnnGUFG6hX_5Xu6u-767tmvcd/view,['Elementary']
 Dresden High School,470447001778,Dresden,7150 Highway 22,38225,Weakley County,"['10', '11', '12', '9']",Public,314.0,https://drive.google.com/file/d/1RyMp_qqGnnGUFG6hX_5Xu6u-767tmvcd/view,['High']
-Dresden Middle School,470447001779,Dresden,759 Linden St,38225,Weakley County,"['5', '6', '7', '8']",Public,338.0,https://drive.google.com/file/d/1RyMp_qqGnnGUFG6hX_5Xu6u-767tmvcd/view,['Middle']
+Dresden Middle School,470447001779,Dresden,,,,,,,,
 Gleason School,470447001780,Gleason,92-99 State Championship Dr,38229,Weakley County,"['1', '10', '11', '12', '2', '3', '4', '5', '6', '7', '8', '9', 'KG', 'PK']",Public,391.0,https://drive.google.com/file/d/1RyMp_qqGnnGUFG6hX_5Xu6u-767tmvcd/view,"['Elementary', 'Middle', 'High']"
 Greenfield School,470447001782,Greenfield,319 West Main St,38230,Weakley County,"['1', '10', '11', '12', '2', '3', '4', '5', '6', '7', '8', '9', 'KG', 'PK']",Public,485.0,https://drive.google.com/file/d/1RyMp_qqGnnGUFG6hX_5Xu6u-767tmvcd/view,"['Elementary', 'Middle', 'High']"
 Martin Elementary,470447001784,Martin,300 South College St,38237,Weakley County,"['3', '4', '5']",Public,367.0,https://drive.google.com/file/d/1RyMp_qqGnnGUFG6hX_5Xu6u-767tmvcd/view,['Elementary']
-Martin Middle School,470447001785,Martin,700 Fowler Rd,38237,Weakley County,"['6', '7', '8']",Public,446.0,https://drive.google.com/file/d/1RyMp_qqGnnGUFG6hX_5Xu6u-767tmvcd/view,['Middle']
+Martin Middle School,470447001785,Martin,,,,,,,,
 Sharon School,470447001788,Sharon,254 North Woodlawn Dr,38255,Weakley County,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,168.0,https://drive.google.com/file/d/1RyMp_qqGnnGUFG6hX_5Xu6u-767tmvcd/view,"['Elementary', 'Middle']"
 Weakley County Center For Adult Continuing Education,470447001789,Dresden,,,,,,,,
 Westview High School,470447001790,Martin,8161 Highway 45,38237,Weakley County,"['10', '11', '12', '9']",Public,560.0,https://drive.google.com/file/d/1RyMp_qqGnnGUFG6hX_5Xu6u-767tmvcd/view,['High']
@@ -1825,7 +1826,7 @@ Cassville Elementary,470450001793,Sparta,261 Will Thompson Rd,38583,White County
 Doyle Elementary,470450001795,Doyle,174 West Gooseneck Rd,38559,White County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,295.0,https://drive.google.com/file/d/1x7Uzhimaj7i8jscBdzJxgvXUv6MhKgpq/view,['Elementary']
 Findlay Elementary,470450001797,Sparta,560 Hale St,38583,White County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,418.0,https://drive.google.com/file/d/1x7Uzhimaj7i8jscBdzJxgvXUv6MhKgpq/view,['Elementary']
 White County High School,470450001798,Sparta,,,,,,,,
-White Co Middle School,470450001800,Sparta,300 Turntable Rd,38583,White County,"['6', '7', '8']",Public,839.0,https://drive.google.com/file/d/1x7Uzhimaj7i8jscBdzJxgvXUv6MhKgpq/view,['Middle']
+White Co Middle School,470450001800,Sparta,,,,,,,,
 Woodland Park Elementary,470450001980,Sparta,88 Panther Dr,38583,White County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,497.0,https://drive.google.com/file/d/1x7Uzhimaj7i8jscBdzJxgvXUv6MhKgpq/view,['Elementary']
 Oak View Elem School,470453000215,Franklin,2390 Henpeck Ln,37064,Williamson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,533.0,https://drive.google.com/file/d/1f2GeoM9UjVlk2yTf9T0kgpdCHJ6rMXKx/view,['Elementary']
 Edmondson Elementary,470453000443,Brentwood,851 Edmondson Pike,37027,Williamson County,"['1', '2', '3', '4', '5', 'KG']",Public,703.0,https://drive.google.com/file/d/1f2GeoM9UjVlk2yTf9T0kgpdCHJ6rMXKx/view,['Elementary']
@@ -1879,28 +1880,28 @@ Vanguard Virtual High School,470453002684,Franklin,1320 West Main St,37064,Willi
 Woodland Middle School,470453010413,Brentwood,1500 Volunteer Pkwy,37027,Williamson County,"['6', '7', '8']",Public,957.0,https://drive.google.com/file/d/1f2GeoM9UjVlk2yTf9T0kgpdCHJ6rMXKx/view,['Middle']
 Amanda H. North Elementary School,470453010493,Spring Hill,1726 Wilkes LN,37174,Williamson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,,https://drive.google.com/file/d/1f2GeoM9UjVlk2yTf9T0kgpdCHJ6rMXKx/view,['Elementary']
 Arrington Elementary School,470453010494,Arrington,6280 Cox RD,37014,Williamson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,,https://drive.google.com/file/d/1f2GeoM9UjVlk2yTf9T0kgpdCHJ6rMXKx/view,['Elementary']
-W A Wright Elementary,470455000054,Mt Juliet,5017 Market Place,37122,Wilson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,514.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,['Elementary']
-Rutland Elementary,470455001241,Mt Juliet,1995 South Rutland Rd,37122,Wilson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,1361.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,['Elementary']
-Mt. Juliet Middle School,470455001636,Mt. Juliet,3565 N. Mt Juliet Rd,37122,Wilson County,"['6', '7', '8']",Public,1022.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,['Middle']
-Wilson Central High School,470455001641,Lebanon,419 Wildcat Way,37090,Wilson County,"['10', '11', '12', '9']",Public,1582.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,['High']
-Watertown Elementary,470455001766,Watertown,741 West Main St,37184,Wilson County,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,577.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,"['Elementary', 'Middle']"
-Carroll Oakland Elementary,470455001816,Lebanon,4664 Hunters Point Pike,37087,Wilson County,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,744.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,"['Elementary', 'Middle']"
-Gladeville Elementary,470455001817,Gladeville,8840 Stewarts Ferry Pike,37071,Wilson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,702.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,['Elementary']
-Lakeview Elementary School,470455001818,Mt Juliet,6211 Saundersville Rd,37122,Wilson County,"['1', '2', '3', '4', '5', 'KG']",Public,514.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,['Elementary']
-Lebanon High School,470455001819,Lebanon,500 Blue Devil Blvd,37087,Wilson County,"['10', '11', '12', '9']",Public,1844.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,['High']
-Mt. Juliet High School,470455001820,Mt Juliet,1875 Golden Bear Gateway,37122,Wilson County,"['10', '11', '12', '9']",Public,1633.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,['High']
-Mt. Juliet Elementary,470455001821,Mt Juliet,2521 W. Division St,37122,Wilson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,685.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,['Elementary']
-West Wilson Middle School,470455001822,Mt Juliet,935 North Mt. Juliet Rd,37122,Wilson County,"['6', '7', '8']",Public,1250.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,['Middle']
-Southside Elementary,470455001823,Lebanon,1224 Murfreesboro Rd,37087,Wilson County,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,691.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,"['Elementary', 'Middle']"
-Tuckers Crossroads Elementary,470455001824,Lebanon,5905 Trousdale Ferry Pike,37087,Wilson County,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG']",Public,381.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,"['Elementary', 'Middle']"
-Watertown High School,470455001825,Watertown,9360 Sparta Pike,37184,Wilson County,"['10', '11', '12', '9']",Public,680.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,['High']
-West Elementary,470455001826,Mt Juliet,9315 Lebanon Rd,37122,Wilson County,"['1', '2', '3', '4', '5', 'KG']",Public,878.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,['Elementary']
-Stoner Creek Elementary,470455001981,Mt Juliet,1035 North Mt. Juliet Rd,37122,Wilson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,775.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,['Elementary']
-Elzie D Patton Elementary School,470455002157,Mt. Juliet,1003 Woodridge Place,37122,Wilson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,469.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,['Elementary']
-Barry Tatum Virtual Learning Academy,470455002262,Lebanon,351 Stumpy Ln,37087,Wilson County,"['10', '11', '12', '4', '5', '6', '7', '8', '9']",Public,129.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,"['Elementary', 'Middle', 'High']"
-Watertown Middle School,470455002383,Watertown,515 W. Main St,37184,Wilson County,"['6', '7', '8']",Public,338.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,['Middle']
-Springdale Elementary School,470455002479,Mt. Juliet,5675 Central Pike,37122,Wilson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,823.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,['Elementary']
-Gladeville Middle School,470455002593,Mt. Juliet,8275 Stewarts Ferry Pike,37122,Wilson County,"['6', '7', '8']",Public,1008.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,['Middle']
-Green Hill High School,470455002639,MT. JULIET,220 NORTH GREENHILL Rd,37122,Wilson County,"['10', '11', '12', '9']",Public,1662.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,['High']
-Barry Tatum Academy,470455002686,Lebanon,205 Stumpy Ln,37090,Wilson County,"['10', '11', '12', '6', '7', '8', '9']",Public,46.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,"['Middle', 'High']"
-Wilson Co Adult High School,470455010415,Lebanon,207 Joe Branham Dr,37087,Wilson County,"['10', '11', '12', '9']",Public,0.0,https://drive.google.com/file/d/1Y2Emg9htabsqHSZxPF2YP2QXjUGmzLq4/view,['High']
+W A Wright Elementary,470455000054,Mt Juliet,5017 Market Place,37122,Wilson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,514.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,['Elementary']
+Rutland Elementary,470455001241,Mt Juliet,1995 South Rutland Rd,37122,Wilson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,1361.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,['Elementary']
+Mt. Juliet Middle School,470455001636,Mt. Juliet,3565 N. Mt Juliet Rd,37122,Wilson County,"['6', '7', '8']",Public,1022.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,['Middle']
+Wilson Central High School,470455001641,Lebanon,419 Wildcat Way,37090,Wilson County,"['10', '11', '12', '9']",Public,1582.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,['High']
+Watertown Elementary,470455001766,Watertown,741 West Main St,37184,Wilson County,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,577.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,"['Elementary', 'Middle']"
+Carroll Oakland Elementary,470455001816,Lebanon,4664 Hunters Point Pike,37087,Wilson County,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,744.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,"['Elementary', 'Middle']"
+Gladeville Elementary,470455001817,Gladeville,8840 Stewarts Ferry Pike,37071,Wilson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,702.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,['Elementary']
+Lakeview Elementary School,470455001818,Mt Juliet,6211 Saundersville Rd,37122,Wilson County,"['1', '2', '3', '4', '5', 'KG']",Public,514.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,['Elementary']
+Lebanon High School,470455001819,Lebanon,500 Blue Devil Blvd,37087,Wilson County,"['10', '11', '12', '9']",Public,1844.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,['High']
+Mt. Juliet High School,470455001820,Mt Juliet,1875 Golden Bear Gateway,37122,Wilson County,"['10', '11', '12', '9']",Public,1633.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,['High']
+Mt. Juliet Elementary,470455001821,Mt Juliet,2521 W. Division St,37122,Wilson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,685.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,['Elementary']
+West Wilson Middle School,470455001822,Mt Juliet,935 North Mt. Juliet Rd,37122,Wilson County,"['6', '7', '8']",Public,1250.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,['Middle']
+Southside Elementary,470455001823,Lebanon,1224 Murfreesboro Rd,37087,Wilson County,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG', 'PK']",Public,691.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,"['Elementary', 'Middle']"
+Tuckers Crossroads Elementary,470455001824,Lebanon,5905 Trousdale Ferry Pike,37087,Wilson County,"['1', '2', '3', '4', '5', '6', '7', '8', 'KG']",Public,381.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,"['Elementary', 'Middle']"
+Watertown High School,470455001825,Watertown,9360 Sparta Pike,37184,Wilson County,"['10', '11', '12', '9']",Public,680.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,['High']
+West Elementary,470455001826,Mt Juliet,9315 Lebanon Rd,37122,Wilson County,"['1', '2', '3', '4', '5', 'KG']",Public,878.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,['Elementary']
+Stoner Creek Elementary,470455001981,Mt Juliet,1035 North Mt. Juliet Rd,37122,Wilson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,775.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,['Elementary']
+Elzie D Patton Elementary School,470455002157,Mt. Juliet,1003 Woodridge Place,37122,Wilson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,469.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,['Elementary']
+Barry Tatum Virtual Learning Academy,470455002262,Lebanon,351 Stumpy Ln,37087,Wilson County,"['10', '11', '12', '4', '5', '6', '7', '8', '9']",Public,129.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,"['Elementary', 'Middle', 'High']"
+Watertown Middle School,470455002383,Watertown,515 W. Main St,37184,Wilson County,"['6', '7', '8']",Public,338.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,['Middle']
+Springdale Elementary School,470455002479,Mt. Juliet,5675 Central Pike,37122,Wilson County,"['1', '2', '3', '4', '5', 'KG', 'PK']",Public,823.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,['Elementary']
+Gladeville Middle School,470455002593,Mt. Juliet,8275 Stewarts Ferry Pike,37122,Wilson County,"['6', '7', '8']",Public,1008.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,['Middle']
+Green Hill High School,470455002639,MT. JULIET,220 NORTH GREENHILL Rd,37122,Wilson County,"['10', '11', '12', '9']",Public,1662.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,['High']
+Barry Tatum Academy,470455002686,Lebanon,205 Stumpy Ln,37090,Wilson County,"['10', '11', '12', '6', '7', '8', '9']",Public,46.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,"['Middle', 'High']"
+Wilson Co Adult High School,470455010415,Lebanon,207 Joe Branham Dr,37087,Wilson County,"['10', '11', '12', '9']",Public,0.0,https://drive.google.com/file/d/1Fsi53MEKr4-P_JY2gSVMq97BN1oGBLNA/view,['High']
